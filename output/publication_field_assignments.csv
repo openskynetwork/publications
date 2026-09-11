@@ -1,0 +1,927 @@
+key,year,category,score,matched_terms,title,venue
+Rabbaniansyah26,2026,Cybersecurity & Anomaly Detection,8,security,Implementation of Ethereum-Based Blockchain Technology for ADS-B Data Security and Validation,ITEJ (Information Technology Engineering Journals)
+Dorbolo26a,2026,Air Traffic Management,4,airport,A general data-driven methodology for predicting future air traffic distributions around airports,Transportation Research Interdisciplinary Perspectives
+Guo26,2026,Crowdsourced Surveillance & Control,6,surveillance,EpiGIS pro: an AI-powered geospatial intelligence platform for integrated disease surveillance and predictive analytics,International Journal of Health Geographics
+Babaei26,2026,Air Traffic Management,4,airport,Techno-Economic Optimization of Electrified Airports as Collaborative Energy Hubs,Proceedings of the 36th European Symposium on Computer Aided Process Engineering (ESCAPE 36)
+Ahmed26,2026,Cybersecurity & Anomaly Detection,28,intrusion detection; intrusion; attack,Toward realistic and lightweight intrusion detection for ADS-B: A comprehensive threat model and multi-attack machine learning evaluation,Array
+Aras26,2026,Other,0,,The aerial embassy: measuring the diplomatic returns of sovereign aviation,International Politics
+Makhlouf26,2026,Machine Learning & Noise Analysis,2,data-driven,Data-Driven Assessment of DME Operational Usage in Relation to Service Volume Definitions,Second US-Europe Air Transportation Research and Development Symposium
+Beiser26,2026,Air Traffic Management,7,traffic flow; capacity,Joint Air Traffic Flow and Capacity Management via Answer Set Programming,arXiv preprint arXiv:2606.22978
+Randolf26,2026,Urban Air Mobility & Simulation,4,simulation,Safety-by-Design Methodology for Simulation-Based Dataset Creation and AI Model Development,University of Cologne
+Suulker26,2026,Trajectory Prediction,8,forecast; forecasting,Probabilistic Forecasting of Aircraft Transit Time within a Flight Information Region: A Case Study of Schiphol Airport,Second US-Europe Air Transportation Research and Development Symposium
+CebrianGomez26,2026,Crowdsourced Surveillance & Control,7,ads-b,A Methodology for Conditioning ADS-B Helicopter Trajectories for Noise and Emissions Assessment,Aerospace
+ElDor26,2026,Trajectory Prediction,6,trajectory,Improving Interpretability in Trajectory Generation: A Case Study on Efficient Latent Space Utilization,Second US-Europe Air Transportation Research and Development Symposium
+Du26,2026,Air Traffic Management,10,airspace; sectorization,When and how to partition airspace: a data-driven control framework for dynamic airspace sectorization based on multi-objective receding horizon optimization,Scientific Reports
+Borrero26,2026,Cybersecurity & Anomaly Detection,5,resilience,Augmenting airline networks using airside-to-airside buses to strengthen system resilience under disruptions,arXiv preprint arXiv:2606.31142
+Zhang26b,2026,Machine Learning & Noise Analysis,6,neural; graph neural,Dynamic low-altitude airspace partitioning and management strategy optimization based on graph neural networks and spatial cognitive constraints,Scientific Reports
+Zhang26c,2026,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Conditional FrFT-Enhanced Reconstruction With Global Consistency for ADS-B Trajectory Anomaly Detection,IEEE Sensors Journal
+Li26b,2026,Air Traffic Management,6,air traffic control,Research on Low-Altitude Economic Air Traffic Control Model Based on Spatiotemporal Constraint Reinforcement Learning,SAE Technical Paper Series
+Park26,2026,Navigation & Signal Processing,14,gnss; sensor; rf,Track-Consistency-Based GNSS RFI Monitoring Using Crowdsourced ADS-B Sensor Networks,arXiv preprint arXiv:2607.09700
+Snisarevska26,2026,Navigation & Signal Processing,10,navigation; communication,Balancing Robustness and Fidelity in Synthetic Flight Tracks Generated via Gaussian Process Methods for Collision Risk Modeling,"2026 Integrated Communications, Navigation and Surveillance Conference (ICNS)"
+Ivashchuk26a,2026,Air Traffic Management,9,airspace; collision risk,Quantitative Estimation of Mid-Air Collision Risk in Controlled Airspace,TRANSBALTICA XVI: Transportation Science and Technology
+Tryb26,2026,Cybersecurity & Anomaly Detection,20,spoofing; spoof,Detection of Aircraft Spoofing Using the GVA Parameter in ADS-B Data,CEAS-AIDAA Conference 2025
+Markovich26,2026,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Anomaly Detection in Random Graphs Evolving by Preferential Attachment,Distributed Computer and Communication Networks
+Markovich26a,2026,Navigation & Signal Processing,3,communication,Detection of Stationarity and Local Dependence in Random Graphs Evolving by Preferential Attachment Model,Distributed Computer and Communication Networks
+NguyenHuu26,2026,Other,0,,A 21-Year Global Daytime Satellite Climatology of Cirrus Cloud Cover and Its Links to Upper-Tropospheric Conditions and Aviation Over Europe and the North Atlantic,International Journal of Climatology
+Li26c,2026,Other,0,,Spatial Dependence in Directed Preferential-Attachment Networks,arXiv preprint arXiv:2607.17597
+Lui26,2026,Air Traffic Management,5,airspace,Robust Dynamic Airspace Configuration: An Optimization Approach,Journal of Air Transportation
+Ali26,2026,Machine Learning & Noise Analysis,2,data-driven,Predictive Analytics and Real-Time Decision-Making,Data-Driven Innovation in Supply Chains and Manufacturing
+Grigoriou26,2026,Other,0,,A Physics-Guided Gradient Boosting Framework for Open-Source Aviation Fuel Estimation,Journal of Open Aviation Science
+Huynh26,2026,Trajectory Prediction,6,trajectories,Potential in Fuel Reduction from ATM: Optimizing Conflict-Free 4D Trajectories,2026 International Workshop on ATM/CNS (IWAC2026)
+Dashti26,2026,Other,0,,A No-Degradation Framework for Augmenting Operating-System Randomness with Publicly Observable Dynamic Data Sources,Cryptography
+Ivanova26,2026,Navigation & Signal Processing,10,navigation; communication,"Ionospheric Storms as a Hazard to Aircraft: A Comprehensive Analysis of Risks for Navigation, Communication, and Surveillance",Geomagnetism and Aeronomy
+Kamanis26,2026,Other,0,,Managing Time in Atemporal Labeled Property Graph Engines: Trade-offs in Representation Strategies,Proceedings of the 38th International Conference on Scalable Scientific Data Management
+Kuraian26,2026,COVID-19 & Societal Impact,8,covid,European Air Transport Transformation: Network-Based Insights into Post-COVID and Restrictions-Induced Route Shifts,Universidade de Lisboa
+Yang26,2026,Other,0,,DyG-Hyena: Lightweight Temporal Modeling and Efficient Information Enhancement for Continuous-Time Dynamic Graph,"Computers, Materials & Continua"
+Henderson26,2026,Other,0,,The Structure of Spreading on Temporal Networks,arXiv preprint arXiv:2608.06175
+Ostroumov27,2027,Navigation & Signal Processing,15,navigation; positioning; rf,Evaluation of positioning performance losses in European airspace due to the shutdown of the Ukrainian air navigation network,Journal of Air Transport Management
+Habiba26,2026,Air Traffic Management,4,airport,Airport Disruption Readiness: A Multi-Source Data and Methods Reference,
+Jayasuriya26,2026,Air Traffic Management,1,operation,A Study on Reducing Flight Delays Using Predictive Analytics in Airline Operations,International Journal of Original Recent Advanced Research
+Jie27,2027,Other,0,,Enhancing Multi-Objective Eco-Efficient Flight Route Optimization Under Dynamic Constraint,Information Retrieval and Knowledge Management
+Tassanbi26,2026,Machine Learning & Noise Analysis,1,learning,Aircraft takeoff weight estimation based on optimal control theory and statistical learning,Aerospace Science and Technology
+Tekaslan26a,2026,Trajectory Prediction,6,trajectory,Plan-and-Avoid: Real-Time Aircraft Trajectory Coordination in a Multi-Agent Environment,arXiv preprint arXiv:2608.06648
+Rischmueller26,2026,Other,0,,Detailed Sensitivity and Multi-Level Design Studies on a Hydrogen-Hybrid Dual-Fuel Regional Aircraft Retrofit,Aerospace
+Eichinger26,2026,Air Traffic Management,4,airport,Assessing the climate mitigation potential of targeted SAF use in 2030 at Copenhagen Airport,Journal of the European Community for Atmospheric Science Discussions
+Dalmau26,2026,Other,0,,"Contrails cannot exist without flights: physics-informed contrail detection, tracking, and attribution in ground-based camera video",EGUsphere
+Magstadt26a,2026,Machine Learning & Noise Analysis,5,machine learning; learning,Toward Intelligent Wildfire Systems: Integrating Machine Learning Across Mitigation and Suppression,Colorado State University
+Wang26b,2026,Cybersecurity & Anomaly Detection,8,secure,Secure data sharing in air traffic management based on blockchain optimized deployment and efficient consensus mechanism,IEEE Internet of Things Journal
+Kacar26,2026,Trajectory Prediction,17,flight trajectory; trajectory; prediction,Fuel Burn Prediction from Open Flight Trajectory and Meteorological Data for the PRC Data Challenge 2025,Journal of Open Aviation Science
+Tagusari26,2026,Crowdsourced Surveillance & Control,7,ads-b,From Raw ADS-B Signals to Reproducible Flight Trajectories: An Open Geospatial Workflow for Narita International Airport,"The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+Tang26,2026,Air Traffic Management,5,traffic flow,"Estimating spatio-temporal contrail coverage: Fusing satellite observations, meteorology, and air traffic flow",Atmospheric Environment: X
+Luvini26,2026,Air Traffic Management,7,air traffic control; operation,"Formal, Executable and Explainable Runtime Monitoring of Spoken Air Traffic Control Operational Procedures",arXiv preprint arXiv:2608.25926
+Wang26a,2026,COVID-19 & Societal Impact,5,epidemic,Pooling Mobility Obscures Epidemic Invasion Routes,arXiv preprint arXiv:2608.25766
+Sahoo26,2026,Other,0,,HARP Tracker: Modular Ground Station Control for Interconnected Ballooning Missions,Academic High Altitude Conference
+Brusset26,2026,Air Traffic Management,9,air traffic control; controller,V2TATC: A Joint Voice-Trajectory Embedding Framework and Dataset for Air Traffic Controller Situational Awareness,arXiv preprint arXiv:2608.28981
+Zhang26d,2026,Other,0,,A System Dynamics Model of Aerospace Data Asset Transactions: Simulating Technology-Market-Policy Co-Evolution,Systems Research and Behavioral Science
+Oruc26,2026,Other,0,,Aircraft Drag Polar Estimation Using Cuckoo Search Algorithm,Konya Journal of Engineering Sciences
+MartinezJara26,2026,Cybersecurity & Anomaly Detection,10,jamming,GNSS Jamming Detection Using ADS-B Data,Universitat Politècnica de Catalunya
+Ezzahed25,2025,Machine Learning & Noise Analysis,3,autoencoder,Explainability in Autoencoders for Time Series: From Latent Space Interpretation to Global Saliency Maps,École Nationale de l'Aviation Civile
+Esterhuysen19,2019,Machine Learning & Noise Analysis,7,deep learning; classification; learning,Time-series Classification (Deep Learning to Classify Flight Profiles),
+Phisannupawong25,2026,Machine Learning & Noise Analysis,3,llm,AdaSTORM: Scaling LLM Reasoning on Dynamic Graphs via Adaptive Spatio-Temporal Multi-Agent Collaboration,arXiv preprint arXiv:2606.16328
+Herbertsson26,2026,Other,0,,Aviation climate impact and opportunities for mitigation,Chalmers Tekniska Hogskola
+Li26a,2026,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Reconstruction-Based Anomaly Detection for ADS-B Surveillance Data,University of Linköping
+Ye26,2026,Air Traffic Management,5,traffic flow,Multi-resolution temporal encoding enhanced air traffic flow prediction with frequency-aware decomposition,Transportation Research Part E: Logistics and Transportation Review
+Ramesh26,2026,Air Traffic Management,10,airspace; sectorization,P-MAPPO: Feasibility-Projected Multi-Agent PPO for Discrete Macro-Actions with Application to Dynamic Airspace Sectorization,2026 IEEE Conference on Artificial Intelligence (CAI)
+Dorbolo26,2026,Crowdsourced Surveillance & Control,8,flight tracking; tracking data,Assessment of easily accessible and proprietary models of departure aircraft performance using open flight tracking data and a mixed analysis-synthesis approach,Aerospace Science and Technology
+Pik26,2026,Crowdsourced Surveillance & Control,17,ads-b; surveillance; telemetry,Multi-Dimensional Coupling of Kinematic Anomalies in ADS-B Surveillance Telemetry,Available at SSRN 6868542
+Nini26,2026,Navigation & Signal Processing,3,rf,Flying on the sphere: Analizying geometric patterns of behaviour of flights from London to Gothemburg using RFPCA,
+Hänggi25,2025,Air Traffic Management,12,runway; taxiway; arrival,Prediction of Arrival Runway Occupancy Time and Exit Taxiway Using ADS-B Trajectories,The 13th OpenSky Symposium
+Sirtori25,2025,Crowdsourced Surveillance & Control,14,ads-b; opensky; data cleaning,Review of ADS-B Data Usage with the focus on Data Cleaning,The 13th OpenSky Symposium
+Ivashchuk26,2026,Cybersecurity & Anomaly Detection,8,security,The Big Data Analysis of Detoured Air Traffic Caused by Military Conflicts in Eastern Europe,"Data Science and Security: Proceedings of IDSCS 2025, Volume 2"
+Thapa26,2026,Air Traffic Management,9,airspace; enroute; operation,Analysis of Annual Enroute Operations in the DC Airspace (2025),DASC 2026
+Stloukal26b,2026,Crowdsourced Surveillance & Control,7,ads-b,Analyzing the Duration of Aircraft Pushback Operations Using ADS-B Data,2026 New Trends in Civil Aviation (NTCA)
+Stloukal26a,2026,Air Traffic Management,12,runway; taxiway; airport,Runway Occupancy Time and Exit Utilization Before and After the Construction of Rapid Exit Taxiway J at Prague Airport,2026 New Trends in Civil Aviation (NTCA)
+Shen26,2026,Other,0,,A Computationally Efficient Methodology for Assessing the Contrail Climate Impact of Regional Aviation,AIAA AVIATION 2026 Forum
+Choi26b,2026,Air Traffic Management,9,terminal; arrival; operation,Bi-Level Clustering of Arrival Trajectories in Terminal Areas with Operational Factors,AIAA AVIATION 2026 Forum
+Stloukal26,2026,Navigation & Signal Processing,11,gnss; rf,Impact of GNSS Interference on Departures from Helsinki Airport,2026 New Trends in Civil Aviation (NTCA)
+Herbertsson26,2026,Other,0,,Quantifying Aviation’s Non-CO2 Climate Impact in the Nordic Environment,AIAA AVIATION 2026 Forum
+Dailey26,2026,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,ADS-B Traffic Anomaly Detection for Geopolitical Early Warning: An STL-Based Pipeline,Proceedings of the Annual General Donald R. Keith Memorial Conference
+Wang26,2026,Air Traffic Management,4,separation,Research on Reduction of Aircraft Wake Vortex Separation and Emission Considering the Speed Changes,Engineering Research Express
+Yoo26a,2026,Machine Learning & Noise Analysis,2,data-driven,Data-Driven Framework for Assessing Wind Impacts on Approach Stability,AIAA AVIATION 2026 Forum
+Yoo26,2026,Machine Learning & Noise Analysis,2,data-driven,Data-Driven Framework for Assessing Wind Impacts on Approach Stability in Flight Training,BCAAS Annual Safety Research Symposium
+Rahimi26,2026,Air Traffic Management,5,airspace,Variational Autoencoder-Assisted Accelerated Benders Decomposition for Resilient Stochastic Air Transport Network Reconfiguration under Airspace Disruptions,
+Kakimoto26,2026,Trajectory Prediction,25,trajectory prediction; flight trajectory; trajectory; prediction,Flight Trajectory Prediction by Integrating ADS-B and Wind Data Considering Extended Dataset Configurations,"International Conference on Emerging Internet, Data & Web Technologies"
+Jayanthi26,2026,Machine Learning & Noise Analysis,31,aircraft noise; noise; aeroacoustic; acoustic; data-driven,Modeling non-linearity from aircraft noise measurements with data-driven methods,32nd AIAA/CEAS Aeroacoustics Conference (2026)
+Nguyen25a,2025,Urban Air Mobility & Simulation,10,uav; aerial access,UAV Path Optimization Using LightGNN-Based Personalized Recommendations,International Conference on Intelligent Aerial Access and Applications
+Ortiz26,2026,Other,0,,Observation-Based Assessment of Contrail Climate Effects across the Euro-Atlantic Region in 2023,
+Elneros26,2026,Other,0,,Contrails over Sweden: Patterns in the Sky,2026 IEEE International Systems Conference (SysCon)
+Ren25,2025,Crowdsourced Surveillance & Control,14,ads-b; opensky; data cleaning,Review of ADS-B Data Usage with the focus on Data Cleaning,The 13th OpenSky Symposium
+Ma26,2026,Navigation & Signal Processing,12,signal processing; signal,Multi-Dictionary Learning for Low Rank Sparse Coding,"ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+Lu26,2026,Crowdsourced Surveillance & Control,7,ads-b,Assessment of Rule-Based and Reinforcement Learning Control Methods with Evaluation of Reward Parameters in Terminal Space: Empirical Comparison Using ADS-B Data,
+Besnea26,2026,Machine Learning & Noise Analysis,7,noise,Retrieving spectral information of individual noise sources from aircraft flyover array measurements,CEAS Aeronautical Journal
+Lepe26,2026,Machine Learning & Noise Analysis,7,noise,Analysis of Operational Factors Contributing to Aircraft Overflight Noise Variation,Journal of Air Transportation
+Fustagueras25,2025,Crowdsourced Surveillance & Control,11,ads-b; opensky,Aerodrome Movement Monitoring Using ADS-B Data: A Case Study at Lommis Airfield,The 13th OpenSky Symposium
+Wüstenbecker25,2025,Air Traffic Management,6,air traffic control,Can YouTube Stream Recordings Improve Speech Recognition for Air Traffic Control?,The 13th OpenSky Symposium
+Inauen25,2025,Crowdsourced Surveillance & Control,4,opensky,Understanding Citizen Science: Insights from the 2024/2025 OpenSky Network User Survey,The 13th OpenSky Symposium
+Yosef26,2026,Cybersecurity & Anomaly Detection,18,interference; privacy-preserving,Towards privacy-preserving and real-time GNSS interference detection in ADS-B systems using CNN,Neural Computing and Applications
+Zhang26a,2026,Trajectory Prediction,13,flight trajectory; trajectory,ADS-B Flight Trajectory Tensor Data Recovery Method Based on Truncated Schatten p-Norm,Applied Sciences
+Jarry25,2025,Trajectory Prediction,9,trajectory; vertical profile,Generation of Vertical Profiles with Neural Ordinary Differential Equations Trained on Open Trajectory Data,The 13th OpenSky Symposium
+Li26,2026,Cybersecurity & Anomaly Detection,5,resilience,Persistent cycles and network resilience: a hypernetwork-based framework for temporal graph analysis,Scientific Reports
+Stoebke26,2026,Other,0,,From ground to sky: Exploring the dynamics of ground times in relation to future aircraft design and airline networks,Transportation Research Procedia
+Magstadt26,2026,Other,0,,An Assessment of Aerial Firefighting Response Times Between Agencies During the 2020 Fire Season in California,International Journal of Disaster Risk Reduction
+Roman25,2025,Trajectory Prediction,10,trajectories; reconstructing,Reconstructing Flight Plans from Trajectories for Traffic Simulations,Deutscher Luft- und Raumfahrtkongress 2025
+Lee25,2025,Crowdsourced Surveillance & Control,7,ads-b,Dynamic Behaviour Classification in Multi-Domain Operations Using ADS-B and Air Traffic Data,Cranfield University
+Choi26a,2026,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Incremental-Noise-Based Teacher Forcing for Sequence Learning in Aircraft Trajectory Prediction,International Journal of Aeronautical and Space Sciences
+Choi26,2026,Air Traffic Management,9,airspace; terminal,Integrating Terminal Airspace Weather Profiles Into Machine Learning Models for ETA Prediction Within the Terminal Maneuvering Area (TMA),AIAA SCITECH 2026 Forum
+Limouchi26,2026,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Trajectory Prediction Using an Optimized Bi-LSTM Model with Denoiser and Attention Mechanism,IEEE Access
+Yuan26,2026,Urban Air Mobility & Simulation,5,low-altitude,Research and Applications of Low-Altitude Urban Traffic System,Aerospace
+Zhang26,2026,Trajectory Prediction,25,trajectory reconstruction; flight trajectory; trajectory; reconstruction,End-to-End Deep Learning for Flight Trajectory Reconstruction from Multi-Station ADS-B Measurements,
+Thomas26,2026,Cybersecurity & Anomaly Detection,5,resilience,Resilience Patterns in Dynamic Aircraft-to-Aircraft Communication Networks,IEEE Transactions on Intelligent Transportation Systems
+Righi26,2026,Other,0,,The ELK global emission inventory for the transport sectors,Earth System Science Data Discussions
+Manda26,2026,Navigation & Signal Processing,10,positioning; multilateration,A K-NN-Driven Multilateration Approach for Improved Aircraft Positioning,Journal of Applied Research and Technology
+Shkolnikov26,2026,COVID-19 & Societal Impact,15,covid; pandemic,Widening East-West inequality in life expectancy in Europe during the COVID-19 pandemic: An international comparative study,PloS one
+Thomas26,2026,Cybersecurity & Anomaly Detection,5,resilience,Resilience Patterns in Dynamic Aircraft-to-Aircraft Communication Networks,IEEE Transactions on Intelligent Transportation Systems
+Krauth25,2025,Air Traffic Management,4,deconfliction,A Methodology for Quantifying Response Times for Deconfliction Actions Through ATC Communications,The 13th OpenSky Symposium
+Alligier25,2025,Crowdsourced Surveillance & Control,11,ads-b; opensky,Identifying Orthodromy and Loxodromy Segments in ADS-B Aircraft Trajectory Data,The 13th OpenSky Symposium
+Figuet25,2025,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Generative Short-Term Aircraft Trajectory Prediction with Conditional Flow Matching,The 13th OpenSky Symposium
+Gaume25,2025,Crowdsourced Surveillance & Control,7,ads-b,Extraction de manoeuvres de déconfliction latérale et de paramètres d'incertitude à partir de données ADS-B historiques du trafic aérien,ISAE Supaero
+Yoo26,2026,Crowdsourced Surveillance & Control,7,ads-b,Data-Driven Metrics for Approach Stability Assessment in Flight Training Using ADS-B Data,
+Leblanc26,2026,Crowdsourced Surveillance & Control,7,ads-b,Mapping the impact of air traffic control strikes on air traffic patterns. A case study of central Europe using open ADS-B flight data,Journal of Geodetic Science
+Tekaslan26,2026,Air Traffic Management,5,airspace,Airspace-aware Contingency Landing Planning,
+Stloukal25,2025,Crowdsourced Surveillance & Control,7,ads-b,Analysis of Ground Bit Changes in ADS-B Data from Airport Operations,Transportation Research Procedia - 14th International Conference on Air Transport – INAIR 2025
+Corneck26,2026,Other,0,,Spectral embedding of inhomogeneous Poisson processes on multiplex networks,
+Zhang25,2025,Navigation & Signal Processing,3,sensor,PointFormer: A Spatiotemporal Data-Guided Algorithm for Aircraft Type Recognition,IEEE Sensors Journal
+Silvestre25,2025,Air Traffic Management,7,air traffic management; operation,Improving efficiency of trajectory-based operations for air traffic management using deep learning,Unviersity of Valladolid
+Tong26,2026,Crowdsourced Surveillance & Control,4,telemetry,Facility Coverage Gaps in Emergency Air-MedicalLogistics: An Event-Driven Audit Using Public Flight Telemetry,Available at SSRN 6124243
+Wandelt26,2026,Air Traffic Management,10,airspace; sectorization,Airspace sectorization,Air Transport: A Computer Science Perspective
+Gallego25,2025,COVID-19 & Societal Impact,13,sars-cov-2; omicron,"International importance and spread of SARS-CoV-2 variants Alpha, Delta, and Omicron BA. 1 into Spain",Communications Medicine
+Zhao25b,2025,Air Traffic Management,10,airspace; sectorization,Robust 3D dynamic airspace sectorization: A multilayer graph-based approach,Journal of Air Transport Management
+Liu25a,2025,Cybersecurity & Anomaly Detection,8,secure,"Joint UAV Trajectory, IRS Beamforming, and Power Allocation Optimization for Secure Communication in IRS-Assisted Cognitive Networks",Informatica
+Schneider25,2025,Other,0,,Perturbatio—An artistic framework for the visualisation of the cumulative eco-impact of human activities,"12th International Conference on Digital and Interactive Arts: Media Art Cultures, Communities & Territories (ARTECH 2025)"
+Bai25b,2025,Machine Learning & Noise Analysis,1,learning,Time-aware graph contrastive learning via dual-channel temporal encoders and hard task-driven adversarial learning,Neurocomputing
+Wang25c,2025,Other,0,,KOSS: Kalman-Optimal Selective State Spaces for Long-Term Sequence Modeling,arXiv preprint arXiv:2512.16723
+Ivashchuk25,2025,Air Traffic Management,9,airspace; collision risk,Estimation of Mid-Air Collision Risk in High-Density Airspace Using Hexagonal Spatial Indexing,Journal of Intelligent Aeronautical Systems and Sustainable Flight Technologies
+Rahman25,2025,Machine Learning & Noise Analysis,5,machine learning; learning,Securing Aviation Networks: A Generalized and Robust Machine Learning Solution for Monitoring Abnormalities in Commercial Aircraft,Results in Engineering
+Ji25,2025,Other,0,,Uncertain Spatiotemporal Knowledge Graph Construction with Fuzzy Spatiotemporal XML Data,Applied Soft Computing
+Cebrian25,2025,Machine Learning & Noise Analysis,7,noise,"Helicopter Noise Modelling in an Urban Setting: A NORAH2 Demonstration for Cannes, France",Aerospace
+Kang25,2025,Other,0,,Redefining the data foundations of turbulence research: a physics-informed active sampling approach,Journal of High School Science
+Ciupeanu26,2026,COVID-19 & Societal Impact,7,pandemic,Mathematical and statistical modelling during a pandemic event,Unviersity of Manitoba
+Jedeni26,2026,Urban Air Mobility & Simulation,3,scenario generation,Data-Driven Aviation Scenario Generation using Generative Adversarial Networks,AIAA SCITECH 2026 Forum
+Kuba26,2026,Air Traffic Management,6,airspace; operation,Congestion and Operational Efficiency Simulation for Modern Airspace in Florida Using Agent-Based Modeling,AIAA SCITECH 2026 Forum
+Das26,2026,Crowdsourced Surveillance & Control,6,surveillance,Advanced Image Processing Techniques for Smart Air Traffic Monitoring,Machine Learning Based Air Traffic Surveillance System Using Image Processing
+Zuzic26,2026,Trajectory Prediction,13,flight trajectory; trajectory,Non-Parametric Model for Curvature Classification of Departure Flight Trajectory Segments,Engineering proceedings
+Rudolph26,2026,Other,0,,Davos in the Sky,
+Besnea25,2025,Machine Learning & Noise Analysis,14,noise; acoustic,Exploring Acoustic Signatures of Different Aircraft Types and Operations Using Advanced Data Analysis,11th Convention of the European Acoustics Association (Euronoise)
+Xie25,2025,Cybersecurity & Anomaly Detection,30,anomaly detection; anomaly; security,Anomaly Detection for ADS-B Data Based on KAN-LSTM,International Conference on Information Security and Cryptology
+Greenpeace25,2025,Other,0,,Booking of Business and First Class Flights in Europe,
+Park25,2025,Machine Learning & Noise Analysis,2,clustering,A Doubled Adjacency Spectral Embedding Approach to Graph Clustering,arXiv preprint arXiv:2512.11777
+Knapp25,2025,Other,0,,A method to determine the torque-speed-characteristic of a motor for an electric aircraft from real mission profiles,
+Waddle25,2025,Other,0,,Remote Autonomous Vehicle Extended Network (RAVEN),
+Spoor25,2025,Air Traffic Management,1,operation,Remaining Track Miles Estimation: Evaluating Current Operation and AI Assistance Potential,Aerospace
+Boo25,2025,Navigation & Signal Processing,8,gps,Threat of Unreliable GPS and Technical Needs for Advanced Air Mobility,Journal of Aerospace Information Systems
+Motte25,2025,Trajectory Prediction,6,trajectory,Conditional Variational Autoencoders for aircraft type-specific trajectory generation,Proceedings of the 15th SESAR Innovation Days
+Larsen25,2025,Trajectory Prediction,6,trajectories,Learning to Land Anywhere: Transferable Generative Models for Aircraft Trajectories,Proceedings of the 15th SESAR Innovation Days
+Olive25a,2025,Other,0,,tangram in Action: Practical Use Cases for Real-time Open Aviation Research,Proceedings of the 15th SESAR Innovation Days
+Tanga25,2025,Other,0,,Contrail Detection and Coverage Estimation across Air Route Traffic Control Centers from Satellite Observations,Proceedings of the 15th SESAR Innovation Days
+Hajizadeh25,2025,Air Traffic Management,4,arrival,Integrating Atmospheric Conditions into the Dynamic-Arrival-Routes Framework,Proceedings of the 15th SESAR Innovation Days
+Murala25,2025,Cybersecurity & Anomaly Detection,8,security,ChainShieldML an intelligent decentralized security framework for next generation wireless sensor networks,Scientific Reports
+Scholten25,2025,Navigation & Signal Processing,6,communication; frequency,Measuring location and properties of very high frequency sources emitted from an aircraft flying through high clouds,Nature Communications
+Hotle25,2025,Crowdsourced Surveillance & Control,6,surveillance,State-of-the-Art Analysis of US Flight Event and Surveillance Data Coverage and Future Research Directions,Transportation Research Record
+Schmolter25,2025,Crowdsourced Surveillance & Control,6,surveillance,The impact of the 2024 mother's day storm on aircraft surveillance across Europe,Space Weather
+Rezaee25,2025,Trajectory Prediction,4,prediction,FOS: A Large-Scale Temporal Graph Benchmark for Scientific Interdisciplinary Link Prediction,arXiv preprint arXiv:2511.18631
+Mohammed25,2025,Machine Learning & Noise Analysis,6,neural; graph neural,Adaptive Graph Neural Network Framework for Real-Time Threat Detection in Critical Infrastructure Networks,Authorea Preprints
+Thapa25,2025,Air Traffic Management,4,enroute; operation,DESIGN OF A DASHBOARD FOR ENROUTE TRAFFIC OPERATIONS USING OPEN-SOURCE DATA,
+Pik25a,2025,Cybersecurity & Anomaly Detection,18,anomalies; security,Predicting geopolitical instability through GNSS anomalies and air traffic data,Journal of Transportation Security
+Soto25,2025,Machine Learning & Noise Analysis,22,aircraft noise; noise; acoustic,AN OPEN-SOURCE TOOL FOR AIRCRAFT NOISE MODELING IN THE CONTEXT OF SPAIN’S GLOBAL NOISE ASSESSMENT (UNDER DEVELOPMENT),11th Convention of the European Acoustics Association (Euronoise 2025)
+Bagaric25,2025,Cybersecurity & Anomaly Detection,20,spoofing; spoof,Countering ADS-B Signal Spoofing by Time Difference of Arrival Multilateration Method,Transportation research procedia
+Blatt25,2025,Other,0,,Analyzing and overcoming low-resource and domain specific problems in the air-traffic control speech processing pipeline,University of Saarland
+Rotherham25,2025,Other,0,,Aircraft engines dust ingestion in the Middle East,Available at SSRN 5691030
+Dai25,2025,Trajectory Prediction,25,trajectory prediction; flight trajectory; trajectory; prediction,CoDRE-Net: Collaborative dual-domain representation enhancement network for flight trajectory prediction,Neurocomputing
+Pirolley25,2025,Cybersecurity & Anomaly Detection,10,anomalies,Machine Learning Techniques for Detecting Anomalies in ADS-B Data in the Context of Low Altitude Aviation,Aerospace Science and Technology
+Rahman24,2024,Crowdsourced Surveillance & Control,11,ads-b; opensky,Modelling ADS-B Reception Probability Using OpenSky Data,The 12th OpenSky Symposium
+Perez25,2025,Navigation & Signal Processing,15,gnss; radio; rf,"Contributions to RFI detection, mitigation, and excision for GNSS receivers and spaceborne microwave radiometers",Universitat Politecnica de Catalunya
+Marshalok25,2025,Trajectory Prediction,3,vertical profile,"Modeling combined and separated sequencing legs in Point Merge: impact on capacity, vertical profile, and continuous descent",Technology audit and production reserves
+Phisannupawong25,2025,Trajectory Prediction,10,trajectory; prediction,LLM4Delay: Flight Delay Prediction via Cross-Modality Adaptation of Large Language Models and Aircraft Trajectory Representation,arXiv preprint arXiv:2510.23636
+Voltolini205,2025,Navigation & Signal Processing,3,rf,Performance analysis of significant aircraft at different CS-23 levels and study of electrification potential,
+Lim25,2025,Other,0,,A Study on Real-time Threat Analysis and Decision Support System for the Korean Peninsula Based on Multi-AI Model Fusion,Journal of the KNST
+Tan25,2025,Trajectory Prediction,8,forecast; forecasting,KOSLM: A Kalman-Optimal Hybrid State-Space Memory Network for Long-Term Time Series Forecasting,
+Ge25,2025,Trajectory Prediction,6,trajectory,KM LLM-pro: Physics-guided cross-modal adaptation for fine-grained spatiotemporal trajectory classification,PLoS One
+Hardell25,2025,Other,0,,ODESTA-PM: Optimizing Aircraft Descent for Environmentally Sustainable Aviation with Point Merge,
+Bai25a,2025,Machine Learning & Noise Analysis,1,learning,Dynamic heterogeneous graph contrastive learning based on multi-prior tasks,Neurocomputing
+Zhang25a,2025,Cybersecurity & Anomaly Detection,10,anomalies,Correcting update anomalies in spatiotemporal knowledge graphs with uncertainties,Engineering Applications of Artificial Intelligence
+Pamukcu25,2025,Machine Learning & Noise Analysis,2,clustering,Global spatial clustering of mpox outbreaks: a geospatial analysis from 2022 to 2024,International Journal of Environmental Health Research
+Lautsch25,2025,Machine Learning & Noise Analysis,15,aircraft noise; noise,Global sensitivity analysis of the Doc. 29 aircraft noise model,DAS|DAGA2025
+Olive25,2025,Air Traffic Management,4,airport,Assessing Airport Surface Traffic Performance from Open Sources of Aviation Data,First International Air Transportation Research and Development Symposium (ATRDS 2025)
+Prondzinski,2025,Other,0,,Automated Reporting for Flight Tests: Enhancing Efficiency with AI and Digital Twin Technology,Conference Proceedings SFTE
+Lui25,2025,Air Traffic Management,5,airspace,A robust optimization approach for dynamic airspace configuration,First International Air Transportation Research and Development Symposium (ATRDS 2025)
+Mcdougall24,2024,Cybersecurity & Anomaly Detection,8,security,Security Challenges and Pitfalls in Wireless Connection Establishment and Communication,University of Hamburg
+Allcott24,2024,COVID-19 & Societal Impact,15,covid; pandemic,What explains temporal and geographic variation in the early US COVID-19 pandemic?,Review of Economic Design
+Chevallier25,2025,Trajectory Prediction,6,trajectory,Integrating Realistic 3D Aircraft Trajectory Optimization with Climate Impact Metrics for Sustainable Aviation,
+Hrdlivcka25,2025,Air Traffic Management,12,arrival; departure; airport,Design of the vertical trajectory for arrival and departure routes at Prague airport,Acta Polytechnica CTU Proceedings
+Huang25,2024,Machine Learning & Noise Analysis,5,machine learning; learning,Towards Machine Learning on Temporal Graphs,McGill University
+Nguyen25,2025,Urban Air Mobility & Simulation,7,drone,Assessing Collision Risks Between Drones and Manned Aircraft,2025 Systems and Information Engineering Design Symposium (SIEDS)
+Sun25b,2025,Air Traffic Management,2,routing,"Contrail, or not contrail, that is the question: the ""feasibility"" of climate-optimal routing",First International Air Transportation Research and Development Symposium (ATRDS 2025)
+Rudnik25,2025,Cybersecurity & Anomaly Detection,20,spoofing; spoof,Effectiveness of Detection Methods for GNSS Spoofing Signals in the Eastern Mediterranean Airspace: A Flight Study,"2025 IEEE/ION Position, Location and Navigation Symposium (PLANS)"
+Soares25,2025,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Experiments on Geospatial Data Modelling for Long-Term Trajectory Prediction of Aircrafts,AGILE: GIScience Series
+Felux25,2025,Cybersecurity & Anomaly Detection,29,spoofing; spoof; interference,Navigating Interference-Examining In-Flight GNSS Spoofing Patterns and Signal Disruptions,Proceedings of the 2025 International Technical Meeting of The Institute of Navigation
+Jager25,2025,Air Traffic Management,6,air traffic control,Air Traffic Simulation Framework for Testing Automated Air Traffic Control Solutions,Applied Sciences
+Bien25,2025,Urban Air Mobility & Simulation,4,simulation,A comprehensive simulation approach for maintenance costs of future aircraft engines using the example of hybrid-electric propulsion,Turbo Expo
+Maes25,2025,Air Traffic Management,4,runway,Aircraft emissions of ultrafine particles characterized by real-world near runway measurements,npj Climate and Atmospheric Science
+Zheng24,2024,Machine Learning & Noise Analysis,6,neural; graph neural,A survey of dynamic graph neural networks,Frontiers of Computer Science
+Heni25,2025,Machine Learning & Noise Analysis,5,deep learning; learning,Towards Deep Learning-Based Estimation of Contrail Environmental Impact: Transatlantic Flights as a Case Study,Proceedings of the 2025 IEEE/AIAA 43rd Digital Avionics Systems Conference (DASC)
+Darabseh25,2025,Cybersecurity & Anomaly Detection,8,secure,Placement Synergy: Bridging ADS-B Ground and Space Sensors for Secure Wide-Area Multilateration,Proceedings of the 2025 IEEE/AIAA 43rd Digital Avionics Systems Conference (DASC)
+Ozcelik25,2025,Navigation & Signal Processing,10,navigation; communication,Prediction of Arrival Aircraft Time Spent in TMA with Graph Neural Network,"2025 Integrated Communications, Navigation and Surveillance Conference (ICNS)"
+Murad25,2025,Navigation & Signal Processing,10,navigation; communication,Synthetic Aircraft Trajectory Generation Using Time-Based VQ-VAE,"2025 Integrated Communications, Navigation and Surveillance Conference (ICNS)"
+Bekkers25,2025,Navigation & Signal Processing,10,navigation; communication,Aircraft-Specific Vehicle Routing Profile for Taxi Route Finding,"2025 Integrated Communications, Navigation and Surveillance Conference (ICNS)"
+Tassanbi25,2025,Navigation & Signal Processing,10,navigation; communication,Open Loop Aircraft Take-off Mass Estimation: An Optimal Trajectory Approach,"2025 Integrated Communications, Navigation and Surveillance Conference (ICNS)"
+Sun25a,2025,Crowdsourced Surveillance & Control,13,opensky; surveillance; crowdsourced,OpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C Data,"2025 Integrated Communications, Navigation and Surveillance Conference (ICNS)"
+Koelle24,2024,Navigation & Signal Processing,10,navigation; communication,A Novel Approach to Measuring Arrival Efficiency in Multi- Regional Operational Benchmarking,"2025 Integrated Communications, Navigation and Surveillance Conference (ICNS)"
+Ivanvco25,2025,Other,0,,Evaluation of modern tools for data scientists,UHasselt
+Ngamboe25,2025,Cybersecurity & Anomaly Detection,20,intrusion detection; intrusion,New Machine Learning Approaches for Intrusion Detection in ADS-B,arXiv preprint arXiv:2510.08333v1
+Gaume25,2025,Air Traffic Management,18,air traffic control; deconfliction; separation; controller; operation,Extracting aircraft conflict-resolution situations from historical ADS-B data,Transportation Research Interdisciplinary Perspectives
+Li25b,2025,Cybersecurity & Anomaly Detection,40,anomaly detection; anomalies; anomaly; security,LLM-Driven Adaptive Prompt Optimization Framework for ADS-B Anomaly Detection,Aerospace
+Mantri25,2025,Trajectory Prediction,4,prediction,Revisiting Node Affinity Prediction in Temporal Graphs,arXiv preprint arXiv:2510.06940v1
+Kwak25,2025,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,The Evolution and Taxonomy of Deep Learning Models for Aircraft Trajectory Prediction: A Review of Performance and Future Directions,Applied Sciences
+Shaikh25,2025,Navigation & Signal Processing,3,rf,Beyond Carbon: Multi-Dimensional Sustainability Performance Metrics for India’s Aviation Industry,
+Scholten25,2025,Other,0,,Measuring the locations and properties of VHF sources emitted from an aircraft flying through high clouds,arXiv preprint arXiv:2509.16574
+Qi25,2025,Air Traffic Management,5,traffic flow,Traffic Flow Prediction Using Multi-Scale Convolution and Attention Mechanisms,2025 International Conference on Intelligent Computing
+Vishnu25,2025,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,A Comparative Analysis of AI Model and Traditional Model in 4D Trajectory Prediction Using Different Error Metrics.,International Journal of High School Research
+Chen25,2025,Air Traffic Management,6,air traffic control,Auto-ATC: A Diffusion-Transformer-Based Automatic Air Traffic Control System,National Taiwan University
+Naaman25,2025,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Quantum Enhanced Anomaly Detection for ADS-B Data using Hybrid Deep Learning,arXiv preprint arXiv:2509.15991
+Angel25,2025,Machine Learning & Noise Analysis,3,artificial intelligence,Actual Take-Off Weight (TOW) Estimation: An Artificial Intelligence Approach,Universidad Politécnica de Madrid
+Hajizadeh25,2025,Air Traffic Management,6,arrival; routing,A Dantzig-Wolfe Reformulation for Automated Aircraft Arrival Routing and Scheduling,arXiv preprint arXiv:2509.13065
+Ma25,2025,Other,0,,Sparse Coding Representation of 2-way Data,arXiv preprint arXiv:2509.10033
+Ding25,2025,Navigation & Signal Processing,6,communication; sensor,Aircraft Trajectory Estimation in Distributed Sensor Networks via End-to-End Deep Learning,2025 IEEE/CIC International Conference on Communications in China (ICCC)
+Zhang25,2025,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Spatial-Temporal Physics-Constrained Multilayer Perceptron for Aircraft Trajectory Prediction,Applied Sciences
+Lizarribar205,2025,Navigation & Signal Processing,3,spectrum,From LOW-COST Spectrum Monitoring to 5G Networks: algorithms and systems for localizing and identifying wireless transmissions,Universidad Carlos III de Madrid
+Steiner,2024,Cybersecurity & Anomaly Detection,10,jamming,GPS jamming detection: ADS-B vs professional detector comparison,Transportation Research Procedia
+Wakolbinger25,2025,Air Traffic Management,6,air traffic management,"Using a relational database for the management of contextualized knowledge graphs for air traffic management in the time-critical setting of the AWARE project/Submitted by Gerald Wakolbinger, BSc",University Linz
+Yahyasatrio25,2025,Other,0,,"Automatic Contrail Detection Using Integrated Satellite Observation, Meteorological Indicators, and Air Traffic Data in the United Kingdom","2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)"
+Hiles25,2025,Crowdsourced Surveillance & Control,7,ads-b,Stone Soup: ADS-B-Based Multi-Target Tracking with Stochastic Integration Filter,2025 28th International Conference on Information Fusion (FUSION)
+Liu25,2025,Navigation & Signal Processing,18,gnss; navigation; rf,Locating GNSS interference sources using ADS-B with non-linear least squares,NAVIGATION: Journal of the Institute of Navigation
+Hakansson25,2025,Cybersecurity & Anomaly Detection,10,anomalies,Identifying anomalies in Automatic Dependent Surveillance Broadcast with Explainable AI: Improving trust with SHapley Additive exPlanations,University of Linköping
+Righi25,2025,Other,0,,The ELK global emission inventory for the transport sectors,Earth System Science Data Discussions
+Keerthana25,2025,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Anomaly Detection in Aircraft Trajectories using Machine Learning,Authorea Preprints
+Digregorio25,2025,Cybersecurity & Anomaly Detection,8,security,Swarm: A Distributed Ledger-based Framework to Enhance Air Traffic Control Security Using ADS-B Protocol,ACM Transactions on Privacy and Security
+Hamza25,2025,Navigation & Signal Processing,7,navigation,Enhancing aviation safety and efficiency: applying artificial intelligence (AI) to address navigational challenges,Neural Computing and Applications
+Wang25b,2025,Cybersecurity & Anomaly Detection,8,secure,A Multi-Layer Secure Sharing Framework for Aviation Big Data Based on Blockchain,Future Internet
+Bardas25,2025,Cybersecurity & Anomaly Detection,5,resilience,Indicators of External Disruptions in Supply Chains: A Framework for Early Detection and Resilience Planning,2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)
+Sonnleitner25,2025,Crowdsourced Surveillance & Control,16,ads-b; surveillance; receiver,Wide-area Multilateration Airspace Surveillance with Unsynchronized Low-Cost ADS-B Receivers Using TDOA Observations,NAVIGATION: Journal of the Institute of Navigation
+Pik25,2025,Cybersecurity & Anomaly Detection,10,anomalies,GPS Anomalies in Aviation: Preliminary Insights from Automatic Dependent Surveillance-Broadcast Data,Journal of Aerospace Information Systems
+Huang25,2025,Other,0,,SPDTM: A Shapley-value Based Preference Discovery and Task Matching to Maximize Satisfaction in Mobile Crowd Sensing,Computer Networks
+Zhao25a,2025,Other,0,,TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU,"Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3"
+Swope25,2025,Other,0,,Space Threat Assessment 2025,
+Asifa25,2025,Navigation & Signal Processing,13,radio; communication; frequency; rf,Lightning Risk Prediction for Aviation Safety,2025 1st International Conference on Radio Frequency Communication and Networks (RFCoN)
+Pascarella25,2025,Cybersecurity & Anomaly Detection,14,intrusion; resilience,A Resilience-Driven Concept to Manage Drone Intrusions in U-Space,"IET Radar, Sonar & Navigation"
+Zeleke25,2025,Urban Air Mobility & Simulation,4,simulation,An integrated encounter modeling and simulation tool for a robust detect-and-avoid system evaluation,Aerospace Science and Technology
+Yin25,2025,Trajectory Prediction,4,prediction,Unveiling Hidden Dynamics in Air Traffic Networks: An Additional-Symmetry-Inspired Framework for Flight Delay Prediction,Mathematics
+Sun25,2025,Crowdsourced Surveillance & Control,4,opensky,Dataset for EUROCONTROL PRC 2024 Data Challenge on Aircraft Take-off Weight Estimation,
+Kakimoto25,2025,Trajectory Prediction,25,trajectory prediction; flight trajectory; trajectory; prediction,Toward Accurate Flight Trajectory Prediction: Insights from ADS-B and Wind Data Integration,International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing
+Chenglong25,2025,Trajectory Prediction,25,trajectory prediction; flight trajectory; trajectory; prediction,Pc-Transformer: Probabilistic Flight Trajectory Prediction with Multi-Stage Predictive Coding,Available at SSRN 5338513
+Salgas25,2025,Other,0,,"Modelling prospective environmental scenarios for aviation: regionalisation, study of abatement costs and techno-economic optimisation under environmental constraints",ISAE-SUPAERO
+Li25a,2025,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Noise robust aircraft trajectory prediction via autoregressive transformers with hybrid positional encoding,Scientific Reports
+Zhao25,2025,Trajectory Prediction,25,trajectory prediction; flight trajectory; trajectory; prediction,Dynamic Quasi-Hyperbolic Momentum Iterative Attack With Small Perturbation for 4D-Flight Trajectory Prediction,IEEE Internet of Things Journal
+Pothana25,2025,Urban Air Mobility & Simulation,7,uav,Air Traffic Trends and UAV Safety: Leveraging Automatic Dependent Surveillance–Broadcast Data for Predictive Risk Mitigation,Aerospace
+Schade25,2025,Urban Air Mobility & Simulation,8,urban air mobility,Psychoacoustic evaluation of different fan designs for an urban air mobility vehicle with distributed propulsion systema),The Journal of the Acoustical Society of America
+Kamsing25,2025,Trajectory Prediction,10,trajectories; prediction,Artificial Neural Network for Air Pollutant Concentration Predictions Based on Aircraft Trajectories over Suvarnabhumi International Airport,Atmosphere
+Reinke23,2023,Crowdsourced Surveillance & Control,4,opensky,Entwicklung eines Modells zum Verschleiss und der Abnutzung eines Flugzeugreifens anhand von OpenSkyNet Daten,Hochschule für Angewandte Wissenschaften Hamburg
+Nunez25,2025,Air Traffic Management,5,airspace,Modeling Probabilistic Safety Margins in Convective Weather Avoidance Within European Airspace,Aerospace
+Khalid25,2025,Cybersecurity & Anomaly Detection,8,security,Deep learning techniques for enhanced security and privacy in 6G terrestrial–nonterrestrial network architecture,The Journal of Supercomputing
+Wang25a,2025,Navigation & Signal Processing,11,gnss; rf,Investigating The Impacts Of A G4-Level Geomagnetic Storm On Airborne Gnss Performance Using Mass Ads-B Data In Southern Canada,IEEE Transactions on Aerospace and Electronic Systems
+Jeong25,2025,Machine Learning & Noise Analysis,5,machine learning; learning,Applying Gaussian Process Machine Learning and Modern Probabilistic Programming to Satellite Data to Infer CO2 Emissions,Environmental Science & Technology
+Joulia25,2025,Other,0,,First steps towards aviation climate impact assessment using ATMLab,Towards Sustainable Aviation Summit
+Lui24,2024,Air Traffic Management,4,arrival,Gradient-based smart predict-then-optimize framework for aircraft arrival scheduling problem,The 12th OpenSky Symposium
+Waltert24,2024,Crowdsourced Surveillance & Control,4,opensky,Evaluating Potential Fuel Savings of External Alternative Ground Propulsion Systems,The 12th OpenSky Symposium
+Roque24,2024,Crowdsourced Surveillance & Control,11,ads-b; opensky,Automating the Estimation of Noise and Emissions Near Airports With ADS-B Data,The 12th OpenSky Symposium
+Zengerling24,2024,Air Traffic Management,5,airspace,Assessing Climate Effects Resulting From Airspace Closures Following the Ukrainian Crisis,The 12th OpenSky Symposium
+Vella24,2024,Crowdsourced Surveillance & Control,4,opensky,Data-Driven Prediction of Aircraft Holding Times Using OpenSky Data,The 12th OpenSky Symposium
+Olive24c,2024,Crowdsourced Surveillance & Control,11,ads-b; opensky,Filtering Techniques for ADS-B Trajectory Preprocessing,The 12th OpenSky Symposium
+Monstein24,2024,Crowdsourced Surveillance & Control,4,opensky,Uncovering Hidden Inefficiencies in the Route Availability Document,The 12th OpenSky Symposium
+Olive24b,2024,Trajectory Prediction,6,trajectories,Training a Machine Learning Model to Detect Holding Patterns in Aircraft Trajectories,The 12th OpenSky Symposium
+Krummen24,2024,Air Traffic Management,8,terminal; arrival,Improving Efficiency Through the Publication of Expected Distances for Standard Terminal Arrival Routes,The 12th OpenSky Symposium
+Schlosser24a,2024,Trajectory Prediction,6,trajectories,Enhancing Aircraft Ground Trajectories through Map-Matching and Stochastic Pavement Roughness Modeling,The 12th OpenSky Symposium
+Bieber24,2024,Cybersecurity & Anomaly Detection,25,intrusion; attack; security,Drone Intrusions in U-Space: Risk Analysis and Modeling of Cyber-Physical Attacks,2024 IEEE International Workshop on Technologies for Defense and Security (TechDefense)
+Li25,2025,Trajectory Prediction,6,trajectory,RouteFlow: Trajectory-Aware Animated Transitions,arXiv preprint arXiv:2502.08076
+Jadhav25,2025,Navigation & Signal Processing,3,rf,Adaptive Multilayer Ensemble based Real Time Stream data Classification: Architectural Perspectives and Performance,
+Wang25,2025,Machine Learning & Noise Analysis,4,neural; learning,Boosting Temporal Graph Learning From Perspectives of Global and Local Structures,IEEE Transactions on Neural Networks and Learning Systems
+Gu25,2025,COVID-19 & Societal Impact,8,sars-cov-2,Optimizing Global Genomic Surveillance for Early Detection of Emerging SARS-CoV-2 Variants,arXiv preprint arXiv:2502.00934
+Vico25,2025,Crowdsourced Surveillance & Control,6,surveillance,A New Association Approach for Multi-Sensor Air Traffic Surveillance Data Based on Deep Neural Networks,Sensors
+Hahn25,2025,Other,0,,ReProVide: Query Optimization and Near-Data Processing on Reconfigurable SoCs for Big Data Analysis,Scalable Data Management for Future Hardware
+Lepe25,2025,Machine Learning & Noise Analysis,7,noise,Multifactor Analysis of Operational Factors Contributing to Aircraft Overflight Noise Variation,AIAA SCITECH 2025 Forum
+Bai25,2025,Machine Learning & Noise Analysis,1,learning,Dynamic heterogeneous graph representation via contrastive learning based on multi-prior tasks,Expert Systems with Applications
+Hoang205,2025,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,"Data Processing Techniques for Trajectories of Road and Air Vehicles: Dimensionality Reduction, Anomaly Detection, Filtering and Data Compression with Applications in V2X Collective Perception",Universite de Toulouse
+Xue24,2024,Navigation & Signal Processing,3,communication,Optimizing polar air traffic: Strategies for mitigating the effects of space weather-induced communication failures poleward of 82 N,Space Weather
+Page24,2024,Trajectory Prediction,4,reconstruction,Sensitivity analysis of mixed analysis-synthesis flight profile reconstruction,Metascience in Aerospace
+Blatt24a,2024,Other,0,,Utilizing Multimodal Data for Edge Case Robust Call-sign Recognition and Understanding,arXiv preprint arXiv:2412.20467
+Shang24,2024,Trajectory Prediction,8,forecast; forecasting,Mshyper: Multi-scale hypergraph transformer for long-range time series forecasting,arXiv preprint arXiv:2401.09261
+Case24,2024,Air Traffic Management,9,airspace; airport,Airport Cooperative Research Program Graduate Research Award 11-04: Geographic Information System Application to Unmanned Traffic Management within the National Airspace System,Transportation Research Record
+Lee24,2024,Other,0,,TAACKIT: Track Annotation and Analytics with Continuous Knowledge Integration Tool,arXiv preprint arXiv:2412.16228
+Alexandrou24,2024,Other,0,,Strategies for decarbonizing the aviation sector: Evaluating economic competitiveness of green hydrogen value chains-A case study in France,Energy
+Su24,2024,Other,0,,Can Trust Enhance Credit Rating Accuracy?,The 2024 Sydney Banking and Financial Stability Conference
+Moussa24,2024,Navigation & Signal Processing,3,communication,Balancing the Complexity of Data Pipeline Engineering: A Technological Landscape Where Human Expertise Meets Large Language Models,"2024 International Symposium on Networks, Computers and Communications (ISNCC)"
+Luo24a,2024,Cybersecurity & Anomaly Detection,30,anomaly detection; anomaly; attack,ADS-Bpois: Poisoning Attacks against Deep Learning-Based Air Traffic ADS-B Unsupervised Anomaly Detection Models,IEEE Internet of Things Journal
+Goens24,2024,Navigation & Signal Processing,3,rf,The Open Performance Data Initiative: A Foundation Supporting the European Open Science Alliance for ATM Research,Proceedings of the 14th SESAR Innovation Days
+Roosenbrand24a,2024,Trajectory Prediction,8,forecast; forecasting,Quantifying the Efficacy of Weather Forecasting Data for Flight Contrail Optimization,Proceedings of the 14th SESAR Innovation Days
+Gheorge24,2024,Trajectory Prediction,4,prediction,Aircraft Take-off Weight Prediction with Operational Data and Supervised Learning,Proceedings of the 14th SESAR Innovation Days
+Jin24,2024,Urban Air Mobility & Simulation,7,uav,Blockchain-based UAV Continuous Authentication,Aerospace Traffic and Safety
+Domine24,2024,Other,0,,Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne Objects,arXiv preprint arXiv:2411.07956
+Jager24,2024,Trajectory Prediction,4,prediction,"Traffic Prediction Based on Online Vehicle Position Information for Simulation, Validation and Controller Resource Allocation Purposes",Engineering Proceedings
+Smetanova24,2024,Air Traffic Management,9,airspace; terminal,An Advanced Framework for Comprehensive Performance Evaluation of Terminal Airspace,Linköping University
+Hamilton24,2024,Other,0,,Estimating Carbon Dioxide Emissions in Two California Cities Using Bayesian Inversion and Satellite Measurements,Geophysical Research Letters
+Magstadt24,2024,Crowdsourced Surveillance & Control,6,surveillance,A Deep Learning Approach for Predicting Aerial Suppressant Drops in Wildland Firefighting Using Automatic Dependent Surveillance–Broadcast Data,Fire
+Meijer24,2024,Machine Learning & Noise Analysis,5,deep learning; learning,Contrail altitude estimation using GOES-16 ABI data and deep learning,Atmospheric Measurement Techniques
+Vansteelant24,2024,Other,0,,Tools for Temporal Network Analysis in Python,Ghent University
+Cevik24,2024,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Comparison of Machine Learning Based Anomaly Detection Methods for ADS-B System,Information Technologies and Their Applications
+Shkolnikov23,2023,COVID-19 & Societal Impact,15,covid; pandemic,East-West mortality disparities during the COVID-19 pandemic widen the historical longevity divide in Europe: an international comparative study,medRxiv
+Gala24a,2024,Cybersecurity & Anomaly Detection,8,security,Towards an Evaluation Methodology of ML Systems from the Perspective of Robustness and Data Quality,"2024 IEEE 24th International Conference on Software Quality, Reliability, and Security Companion (QRS-C)"
+Wijnands24,2024,Trajectory Prediction,6,trajectories,Generation of Synthetic Aircraft Landing Trajectories Using Generative Adversarial Networks,Proceedings of the 14th SESAR Innovation Days
+Pilko24,2024,Air Traffic Management,1,operation,Uncrewed aerial systems operational risk analysis,University of Southampton
+Chen24a,2024,Machine Learning & Noise Analysis,4,neural; learning,Evolving network representation learning based on recurrent neural network,International Journal of Sensor Networks
+Schlosser24,2024,Trajectory Prediction,6,trajectories,Analysis of Aircraft Ground Trajectories: Map-Matching with Open Source Data for Modeling Safety-Driven Applications,ICRAT 2024
+Low24,2024,Machine Learning & Noise Analysis,3,neural,Deep neural network-based automatic speech recognition for ATC-pilot audio transcription,ICRAT 2024
+Jarry24,2024,Machine Learning & Noise Analysis,5,deep learning; learning,On the Generalization Properties of Deep Learning for Aircraft Fuel Flow Estimation Models,
+Martin23a,2023,Air Traffic Management,7,airspace; capacity,A Causal STAM Model to Increase Airspace Network Capacity,EUROSIM 2023
+Florent24,2024,Other,0,,Study of Hybridisation Scenarios for Turboprop Aircraft in the General Aviation Segment,34th Congress of the International Council of the Aeronautical Science
+Rizvi24,2024,COVID-19 & Societal Impact,7,pandemic,Deep learning-derived optimal aviation strategies to control pandemics,Scientific Reports
+Damanik24,2024,Trajectory Prediction,6,trajectory,Contrastive Learning-Based Air Traffic Trajectory Representation: A Case Study on Incheon International Airport,
+Tolva24,2024,Other,0,,One Way or Another: Modes of Transport and International Trade,Sardinia Empirical Trade Conference
+Rafanambinantsoa24,2024,Machine Learning & Noise Analysis,20,aircraft noise; noise; machine learning; learning,Modelling aircraft noise map around an airport using machine learning,
+Huang24,2024,Trajectory Prediction,8,forecast; forecasting,NeuralCODE: Neural Compartmental Ordinary Differential Equations Model with AutoML for Interpretable Epidemic Forecasting,ACM Transactions on Knowledge Discovery from Data
+Zuluaga24,2024,Other,0,,Low-Resource Speech Recognition and Understanding for Challenging Applications,EPFL
+Pretto24,2024,Crowdsourced Surveillance & Control,8,flight tracking; tracking data,Aircraft operation reconstruction and airport noise prediction from high-resolution flight tracking data,Transportation Research Part D: Transport and Environment
+Heiselberg24,2024,Crowdsourced Surveillance & Control,7,ads-b,Aircraft Detection and State Estimation,IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium
+Dobbs24,2024,Other,0,,A bottom-up approach for calculating selected aviation-related emissions,University of Bremen
+Ji24,2024,Other,0,,A Fine-Grained RDF Graph Model for Fuzzy Spatiotemporal Data,Applied Soft Computing
+Hrdlicka24,2024,Air Traffic Management,8,arrival; departure,Design of the Vertical Trajectory for Arrival and Departure Routes at LKPR,Czech Technical University in Prague
+Skurdal24a,2024,Navigation & Signal Processing,8,gps,ADS-B/GPS Integrity Identification and Evaluation Using Machine Learning Models,The University of North Dakota
+Abilpatta24,2024,COVID-19 & Societal Impact,15,covid; pandemic,Visual analysis of changes in European air transport during the COVID-19 pandemic from interactive maps,Miscellanea Geographica
+Cakir24,2024,Other,0,,Real-Time Digital Twin Platform: A Case Study on Core Network Selection in Aeronautical Ad-Hoc Networks,arXiv preprint arXiv:2408.10409v1
+Doorn24,2024,Air Traffic Management,6,air traffic control,Whisper-ATC: Open Models for Air Traffic Control Automatic Speech Recognition with Accuracy,ICRAT 2024
+Roosenbrand24,2024,Other,0,,Flight Optimization for Contrails and Emissions: A Large-Scale Trade-off Analysis Using Open Data and Models,ICRAT 2024
+Vos24,2024,Trajectory Prediction,26,trajectory prediction; trajectory; prediction; forecast; forecasting,A Transformer-based Trajectory Prediction Model to Support Air Traffic Demand Forecasting,ICRAT 2024
+Figueiredo24,2024,Air Traffic Management,6,air traffic control,REAL-TIME MONITORING AND ALERTING OF GO-AROUNDS FOR AIR TRAFFIC CONTROL DECISION SUPPORT,
+Sun24,2024,Air Traffic Management,5,airspace,Contrail Formation and Mitigation in the Japanese Airspace: A Data-Driven Study,ICRAT 2024
+Ramchandra24a,2024,Navigation & Signal Processing,11,gps; rf,Detecting GPS Interference Using Automatic Dependent Surveillance-Broadcast Data,Electronics
+Schulmeyer24,2024,Urban Air Mobility & Simulation,7,uav,An Agent Based Modelling Framework for Assessing the Impact of UAV on the Air Traffic System,AIAA AVIATION FORUM AND ASCEND 2024
+Rischmueller24,2024,Other,0,,Advanced Conceptual Design Studies on a Hydrogen-Hybrid Dual-Fuel Regional Aircraft Retrofit,AIAA AVIATION FORUM AND ASCEND 2024
+Jayanthi24,2024,Machine Learning & Noise Analysis,20,aircraft noise; noise; sound,A COMPARISON OF MEASURED AND MODELLED AIRCRAFT NOISE LEVELS FOR RTHA,International Congress on Sound and Vibration
+Pik24,2024,Cybersecurity & Anomaly Detection,10,anomalies,Detecting GPS Anomalies in Aviation Using ADS-B: Correlating Coordinate Gaps and GPS Deviations With NOTAM Warnings,AIAA AVIATION FORUM AND ASCEND 2024
+Felux24,2024,Cybersecurity & Anomaly Detection,10,jamming,Impacts of Global Navigation Satellite System Jamming on Aviation,NAVIGATION: Journal of the Institute of Navigation
+Phisannupawong24,2024,Trajectory Prediction,6,trajectory,Aircraft Trajectory Segmentation-based Contrastive Coding: A Framework for Self-supervised Trajectory Representation,arXiv preprint arXiv:2407.20028
+Uccar24,2024,Other,0,,A Comprehensive Review of Open Source Intelligence in Intelligent Transportation Systems,2024 International Conference on Intelligent Environments (IE)
+Yan24,2024,Other,0,,Memory-biomimetic deep Bayesian filtering,Information Fusion
+Topkova24,2024,Other,0,,Evaluation of DME network capability using combination of rule-based model and gradient boosting regression,Journal of Air Transport Management
+Quante24a,2024,Other,0,,Targeted Use of Paraffinic Kerosene: Potentials and Implications,Atmospheric Environment: X
+Salgas24,2024,Air Traffic Management,5,traffic flow,Compilation and Applications of an Open-Source Dataset on Global Air Traffic Flows and Carbon Emissions,Journal of Open Aviation Science
+Navarrete24,2024,Crowdsourced Surveillance & Control,7,ads-b,"Estudio de la contaminación auditiva producida por las aeronaves sobre la ciudad de Bogotá, utilizando el sistema ADS-B",Ciencia y Poder Aéreo
+Olive24a,2024,Crowdsourced Surveillance & Control,4,opensky,OpenSky Report 2024: Analysis of Global Flight Contrail Formation and Mitigation Potential,Proceedings of the 2024 IEEE/AIAA 43rd Digital Avionics Systems Conference (DASC)
+Olive24,2024,Air Traffic Management,8,taxiway; airport,Filtering Aircraft Surface Trajectories Using Information on the Taxiway Structure of Airports,ICRAT 2024
+Gaume24,2024,Crowdsourced Surveillance & Control,7,ads-b,Extracting Lateral Deconfliction Actions from Historical ADS-B data with Median Regression,ICRAT 2024
+Gallego24,2024,COVID-19 & Societal Impact,13,sars-cov-2; omicron,"Dispersal history of SARS-CoV-2 variants Alpha, Delta, and Omicron (BA.1) in Spain",medRxiv
+Silvestre24b,2024,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Multi-route aircraft trajectory prediction using Temporal Fusion Transformers,IEEE Access
+Zhang24a,2024,Air Traffic Management,23,traffic flow; airspace; terminal; arrival; airport; operation,Identification of Traffic Flow Spatio-Temporal Patterns and Their Associated Weather Factors: A Case Study in the Terminal Airspace of Hong Kong,Aerospace
+Liptak23,2023,Crowdsourced Surveillance & Control,6,surveillance,Modelling of the Environment of Civil Aviation Cooperative Surveillance Systems,Czech Technical University
+Kavka24,2024,Trajectory Prediction,8,prediction; forecast,Simulation Tool for Estimation of Air Traffic Distribution,2024 New Trends in Civil Aviation (NTCA)
+Blatt24,2024,Other,0,,Joint vs Sequential Speaker-Role Detection and Automatic Speech Recognition for Air-traffic Control,arXiv preprint arXiv:2406.13842
+Mcfadyen24,2024,Urban Air Mobility & Simulation,13,unmanned; uas,Adjacent Airspace Risk and Containment Requirement Estimation for Uncrewed Operations,2024 International Conference on Unmanned Aircraft Systems (ICUAS)
+Keto24,2024,Other,0,,Velocity Analysis of Moving Objects in Earth Observation Satellite Images Using Multi-Spectral Push Broom Scanning,
+Holt24,2024,Urban Air Mobility & Simulation,13,unmanned; uas,Deep Learning for Radar Classification,2024 International Conference on Unmanned Aircraft Systems (ICUAS)
+Zhao24,2024,Air Traffic Management,1,operation,Enhancing Air Traffic Operational Efficiency by Reducing Network Scale,Aerospace Traffic and Safety
+Koelle24,2024,Navigation & Signal Processing,10,navigation; communication,A Novel Approach to Measuring Arrival Efficiency in Multi- Regional Operational Benchmarking,"2024 Integrated Communications, Navigation and Surveillance Conference (ICNS)"
+Gala24,2024,Other,0,,Towards an Empirical Robustness Assessment Through Measuring Adversarial Subspaces,Proceedings of the 5th ACM/IEEE International Conference on Automation of Software Test (AST 2024)
+Huijie24,2024,Other,0,,Global Mpox spread due to increased air travel,Geospatial Health
+Lampert24,2024,Trajectory Prediction,12,prediction; forecast; forecasting,From Link Prediction to Forecasting: Information Loss in Batch-based Temporal Graph Learning,
+Vincent24a,2024,Machine Learning & Noise Analysis,5,machine learning; learning,Aircraft Categorization Approach Using Machine Learning to Analyze Aircraft Behavior,Journal of Air Transportation
+Luo24,2024,Cybersecurity & Anomaly Detection,30,anomaly detection; anomaly; attack,Adversarial Attacks against Deep-Learning-Based Automatic Dependent Surveillance-Broadcast Unsupervised Anomaly Detection Models in the Context of Air Traffic Management,Sensors
+Merino24,2024,Machine Learning & Noise Analysis,21,noise; aeroacoustic; acoustic,Psychoacoustic Analysis of the Noise Emissions from the Airbus A320 Aircraft Family and its Nose Landing Gear System,30th AIAA/CEAS Aeroacoustics Conference (2024)
+Klinefelter24,2024,Trajectory Prediction,6,trajectory,Distributed Conflict Detection and Optimal 4D Trajectory Resolution Leveraging Polynomial Based Methods,
+Davis24,2024,Trajectory Prediction,4,prediction,Valid Conformal Prediction for Dynamic GNNs,
+Fatela24,2024,Other,0,,Aircraft Engine Speed Estimation from Flyover Audio Recordings: an Open Access Solution?,
+Wu24a,2024,Trajectory Prediction,25,trajectory prediction; flight trajectory; trajectory; prediction,FlightPatchNet: Multi-Scale Patch Network with Differential Coding for Flight Trajectory Prediction,arXiv preprint arXiv:2405.16200
+Jiang24,2024,Machine Learning & Noise Analysis,2,clustering,Distributed multi-hop clustering algorithm for aeronautical ad-hoc network,Ad Hoc Networks
+Zhang24,2024,Navigation & Signal Processing,3,communication,LEO satellites selection-based computation offloading algorithm in aircraft-satellite multi-access edge computing networks,Computer Communications
+Silvestre24a,2024,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Towards aircraft trajectory prediction using LSTM networks,Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing
+Garcez24,2024,Trajectory Prediction,6,trajectories,An experimental study of existing tools for outlier detection and cleaning in trajectories,GeoInformatica
+Ramchandra24,2024,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Trajectory Prediction Model for Accurate Navigation and Surveillance Using kNN Regressor,2024 IEEE Aerospace Conference
+Stloukal24,2024,Crowdsourced Surveillance & Control,7,ads-b,Estimating Aircraft Take-Off Roll Time Using ADS-B Data,2024 New Trends in Civil Aviation (NTCA)
+Arnold24,2024,COVID-19 & Societal Impact,8,sars-cov-2,Estimating the risk of SARS-CoV-2 infection in New Zealand border arrivals,BMC Global and Public Health
+Shahid24,2024,Navigation & Signal Processing,4,radio,Open Datasets for Satellite Radio Resource Control,arXiv preprint arXiv:2404.13920
+Silvestre24,2024,Machine Learning & Noise Analysis,5,deep learning; learning,A deep learning-based approach for predicting in-flight estimated time of arrival,The Journal of Supercomputing
+Hardell24a,2024,Air Traffic Management,4,arrival,Evaluation of point merge arrival procedure efficiency,Sammanställning av referat från Transportforum 2024 :
+Derwent24,2024,Other,0,,Atmospheric chemistry regimes in intercontinental air traffic corridors: Ozone versus NOx sensitivity,Atmospheric Environment
+Quante24,2024,Other,0,,Hydroprocessing of Fossil Fuel-Based Aviation Kerosene – Technology Options and Climate Impact Mitigation Potentials,Atmospheric Environment: X
+Turchetti24,2024,Urban Air Mobility & Simulation,8,urban air mobility,Analysis and Prediction of Airspace Availability for Urban Air Mobility Operations in the Sao Paulo Metropolitan Region,TRANSPORTES
+Hardell24,2024,Air Traffic Management,5,arrival; operation,Optimization of Aircraft Arrival Operations for Improved Environmental Efficiency,Linköping University
+Polewczyk24,2024,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Aircraft Trajectory Prediction and Time Estimation adapting Social-LSTM,
+Zhang23c,2023,Machine Learning & Noise Analysis,3,llm,LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs?,arXiv preprint arXiv:2310.17110
+Weidmann23,2023,Other,0,,Analyse Anflugtrajektorien Flughafen Zürich,
+Liu24a,2024,Navigation & Signal Processing,11,gnss; rf,GNSS Interference: Getting to the Source,Inside GNSS
+Xu24,2024,Other,0,,Spatiotemporal knowledge graph completion via diachronic and transregional word embedding,Information Sciences
+Ye24,2024,Trajectory Prediction,14,trajectory; forecast; forecasting,Efficient Trajectory Forecasting and Generation with Conditional Flow Matching,arXiv preprint arXiv:2403.10809
+Orchard24,2024,COVID-19 & Societal Impact,15,covid; pandemic,"PANDEM-Source, a tool to collect or generate surveillance indicators for pandemic management: a use case with COVID-19 data",Frontiers in Public Health
+Chen24,2024,Trajectory Prediction,8,prediction; reconstruction,Research on inversion reconstruction and prediction method of high-altitude meteorological field,"Ninth International Symposium on Sensors, Mechatronics, and Automation System (ISSMAS 2023)"
+Passarella24,2024,Machine Learning & Noise Analysis,5,machine learning; learning,Development of a machine learning model for predicting abnormalities of commercial airplanes,Data Science and Management
+Markovich24,2024,Machine Learning & Noise Analysis,2,clustering,Inferences for Random Graphs Evolved by Clustering Attachment,arXiv preprint arXiv:2403.00551
+Krauth24,2024,Air Traffic Management,8,terminal; collision risk,Advanced Collision Risk Estimation in Terminal Manoeuvring Areas Using a Disentangled Variational Autoencoder for Uncertainty Quantification,Available at SSRN 4581022
+Divakaruni24,2024,Other,0,,Technology Adoption and Pricing: Evidence from US Airlines,Available at SSRN
+Wu24,2024,Air Traffic Management,5,airspace,Spaceport Facility Location Planning within the US National Airspace System,arXiv preprint arXiv:2402.11389
+Gao24,2024,Machine Learning & Noise Analysis,3,neural,Towards a better negative sampling strategy for dynamic graphs,Neural Networks
+Liu24,2024,Cybersecurity & Anomaly Detection,10,jamming,Localizing the October 2022 Texas Jamming Incident Using ADS-B Data with an Improvement in Model Confidence,Proceedings of the 2024 International Technical Meeting of The Institute of Navigation
+Chandar24,2024,Navigation & Signal Processing,11,gps; communication,Imputing ADS-B/GPS Dropouts using Machine Learning Models,2024 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC)
+Skurdal24,2024,Crowdsourced Surveillance & Control,11,ads-b; opensky,Estimating GPS/ADS-B Dropouts in the OpenSky Network Platform,2024 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC)
+Gomez24,2024,Trajectory Prediction,6,trajectories,Stronger compact representations of object trajectories,Geo-spatial Information Science
+Garcia24,2024,Other,0,,Development of predictive flight fuel consumption models,Universitat Politecnica de Catalunya
+Krajcek24,2024,Crowdsourced Surveillance & Control,6,surveillance,Fuel Burn Method Assessment Using Automatic Dependent Surveillance–Broadcast and European Reanalysis Data: Limited Flight Sample Analysis,Aerospace
+Chandar23,2023,Machine Learning & Noise Analysis,1,learning,Benchmarking Federated Learning Frameworks for Aviation Network Data,The University of North Dakota
+Ramchandra23,2023,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Anomaly Detection and Trajectory Prediction Models for ADS-B Datasets,The University of North Dakota
+Ganic23,2023,Machine Learning & Noise Analysis,7,noise,Using Service-Level Mobile Internet Traffic Data to Estimate Noise Impact of Flight Trajectories on the Population,NetMob 2023 Data Challenge
+Strohmeier23,2023,Cybersecurity & Anomaly Detection,17,cybersecurity; security,In Pursuit of Aviation Cybersecurity: Experiences and Lessons From a Competitive Approach,IEEE Security & Privacy
+Strohmeier22a,2022,Navigation & Signal Processing,5,localization,Improving Aircraft Localization: Experiences and Lessons Learned from an Open Competition,arXiv preprint arXiv:2209.13669
+Tsai23,2023,Machine Learning & Noise Analysis,5,deep learning; learning,Risk Assessment Procedure of Final Approach to Landing Using Deep Learning,Journal of Aerospace Information Systems
+Vincent24,2024,Air Traffic Management,5,airspace,Data-driven Geospatial Modeling for Complex Airspace Environments,AIAA SCITECH 2024 Forum
+Tong23,2023,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Long-term trajectory prediction model based on Transformer,IEEE Access
+Huynh23,2023,Machine Learning & Noise Analysis,7,noise,Comparison of data-based and modeled-based analysis of aircraft departure noise using noise monitor network recordings,INTER-NOISE and NOISE-CON Congress and Conference Proceedings
+Behringer23,2023,Machine Learning & Noise Analysis,5,deep learning; learning,SDRank: A Deep Learning Approach for Similarity Ranking of Data Sources to Support User-Centric Data Analysis.,Proceedings of the 25th International Conference on Enterprise Information Systems (ICEIS 2023)
+Ngamboe23,2023,Cybersecurity & Anomaly Detection,8,security,ESAT: Extended Security in the Air using TESLA,arXiv preprint arXiv:2312.09870
+Zhang23b,2023,Cybersecurity & Anomaly Detection,16,attack; security,A Robust and Practical Solution to ADS-B Security Against Denial-of-Service Attacks,IEEE Internet of Things Journal
+Matteson23b,2023,COVID-19 & Societal Impact,13,covid; epidemic,Genomic surveillance reveals dynamic shifts in the connectivity of COVID-19 epidemics,Cell
+Bolic23a,2023,Other,0,,Roadmap for a European open science alliance for ATM research,Proceedings of the 13th SESAR Innovation Days
+Sun23,2023,Crowdsourced Surveillance & Control,7,ads-b,Evaluating Transatlantic Flight Emissions and Inefficiencies Using Space-Based ADS-B Data,Proceedings of the 13th SESAR Innovation Days
+Roosenbrand23a,2023,Other,0,,Contrail Altitude Estimation Based on Shadows Detected in Landsat Imagery,Proceedings of the 13th SESAR Innovation Days
+Hardell23a,2023,Air Traffic Management,8,runway; arrival,Arrival Optimization with Point Merge in a Dual-runway Environment,Proceedings of the 13th SESAR Innovation Days
+Saluja23,2023,Other,0,,Effect of Engine Design Parameters on the Climate Impact of Aircraft: A Case Study Based on Short-Medium Range Mission,Aerospace
+Olive23a,2023,Crowdsourced Surveillance & Control,4,opensky,OpenSky Report 2023: Low Altitude Traffic Awareness for Light Aircraft with FLARM,Proceedings of the 2023 IEEE/AIAA 42nd Digital Avionics Systems Conference (DASC)
+Jansen23,2023,Other,0,,Improving the Lifespan of LDACS Air-To-Air Multi-Hop Connections by Heading Direction,"42nd Digital Avionics Systems Conference, DASC 2023"
+Buxbaum23,2023,Other,0,,Rolle der Automatisierung bei der Umsetzung klimaoptimierter Anflugprofile,Deutscher Luft- und Raumfahrtkongress 2023
+Kim23,2023,Air Traffic Management,9,airspace; collision risk,Classifying Midair Collision Risk in Airspace Using ADS-B and Mode-S Open-source Data,Journal of Advanced Navigation Technology
+Davis23,2023,Navigation & Signal Processing,3,rf,A Simple and Powerful Framework for Stable Dynamic Network Embedding,arXiv preprint arXiv:2311.09251.
+Wu23a,2023,Trajectory Prediction,6,trajectory,Trajectory-BERT: Trajectory Estimation Based on BERT Trajectory Pre-Training Model and Particle Filter Algorithm,Sensors
+Yang23,2023,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Aircraft trajectory prediction and aviation safety in ADS-B failure conditions based on neural network,Scientific Reports
+Darabseh23,2023,Crowdsourced Surveillance & Control,14,ads-b; opensky; receiver,Securing the Sky: Detecting Aircraft Location Drifting through Cross-Checking Receiver-Based Estimated and Received ADS-B Trajectories,The 11th OpenSky Symposium
+VincentBoulay23,2023,Crowdsourced Surveillance & Control,11,ads-b; opensky,(Poster) Spatial modelling of midair collision risk using ADS-B data,The 11th OpenSky Symposium
+Mavrakis23,2023,Crowdsourced Surveillance & Control,11,ads-b; opensky,(Poster Improving light aviation safety through traffic sharing and OpenSky ADS-B feed,The 11th OpenSky Symposium
+Arts23,2023,Crowdsourced Surveillance & Control,11,ads-b; opensky,"(Poster) Identifying Maintenance, Repair and Overhaul Events based on ADS-B Data",The 11th OpenSky Symposium
+Perrichon23,2023,Crowdsourced Surveillance & Control,4,opensky,(Poster) Hidden Markov Models and Flight Phase Identification,The 11th OpenSky Symposium
+Seume23,2023,Air Traffic Management,6,airport; holding,(Poster) Classification of Holdings in Flights Arriving at Dubai International Airport (DXB) in One Year,The 11th OpenSky Symposium
+Pradines23,2023,Crowdsourced Surveillance & Control,10,mode s; opensky,(Poster) Fusing Mode S and Earth observation data for ML-driven engine performance deterioration modeling,The 11th OpenSky Symposium
+Pirolley23,2023,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,(Poster) ADS-B anomaly detection in the surveillance of low-altitude aircrafts,The 11th OpenSky Symposium
+Filjar23,2023,Trajectory Prediction,18,trajectory reconstruction; trajectory; reconstruction,Airplane Trajectory Reconstruction and Analysis Using GNSS-Based ADS-B Data: What to Do with the Open Access Data Using Open-Source Software,United Nations/Finland Workshop on the Applications of Global Navigation Satellite Systems
+Barghi23,2023,Machine Learning & Noise Analysis,1,learning,BitGraph: A Framework For Scaling Temporal Graph Queries on GPUs,Temporal Graph Learning Workshop at NeurIPS 2023
+Roosenbrand23,2023,Other,0,,Contrail minimization through altitude diversions: A feasibility study leveraging global data,Transportation Research Interdisciplinary Perspectives
+Waltert23,2023,Crowdsourced Surveillance & Control,11,ads-b; opensky,Using ADS-B Trajectories to Measure How Rapid Exit Taxiways Affect Airport Capacity,The 11th OpenSky Symposium
+Dalmau23,2023,Air Traffic Management,6,airport; holding,On the Causes and Environmental Impact of Airborne Holdings at Major European Airports,The 11th OpenSky Symposium
+Bien23,2023,Trajectory Prediction,6,trajectories,Generation of Parametric Climb Trajectories considering Operational Inputs for Aircraft Engine Thrust Extraction,The 11th OpenSky Symposium
+Smetanova23,2023,Crowdsourced Surveillance & Control,4,opensky,Investigation of Point Merge Utilization Worldwide Using Opensky Network Data,The 11th OpenSky Symposium
+Figuet23c,2023,Air Traffic Management,4,airport,Towards Analysing the Impact of Go-Around Occurrences at Large European Airports,The 11th OpenSky Symposium
+Wang23,2023,Air Traffic Management,5,airspace,Optimisation of Airspace Sectorisation based on Open Data and Reinforcement Learning,The 11th OpenSky Symposium
+Salgas23a,2023,Crowdsourced Surveillance & Control,4,opensky,Compilation of an open-source traffic and CO2 emissions dataset for commercial aviation,The 11th OpenSky Symposium
+RiggiCarrolo23,2023,Crowdsourced Surveillance & Control,4,opensky,AI-Driven Identification of Contrail Sources: Integrating Satellite Observation and Air Traffic Data,The 11th OpenSky Symposium
+Krummen23,2023,Air Traffic Management,4,airport,Aircraft wake vortices affecting airport wind measurements,The 11th OpenSky Symposium
+Xapelli23,2023,Crowdsourced Surveillance & Control,10,opensky; surveillance,A First Look at Exploiting the Automatic Dependent Surveillance-Contract Protocol for Open Aviation Research,The 11th OpenSky Symposium
+Gaume23,2023,Crowdsourced Surveillance & Control,11,ads-b; opensky,A Catalogue of Deconfliction Actions Extracted from Historical ADS-B Data,The 11th OpenSky Symposium
+Fatela23,2023,Machine Learning & Noise Analysis,14,acoustic; auralization,"Real-World Study Cases for Auralization Validation: Selection, Measurements and Methods",10th Convention of the European Acoustics Association
+Zuluagagomez23a,2023,Air Traffic Management,6,air traffic control,Lessons Learned in Transcribing 5000 h of Air Traffic Control Communications for Robust Automatic Speech Understanding,Aerospace
+Dacus23,2023,Navigation & Signal Processing,18,gnss; navigation; rf,Approximating Regional GNSS Interference Sources as a Convex Optimization Problem Using ADS-B Data,Proceedings of the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2023)
+Liu23b,2023,Navigation & Signal Processing,18,gnss; navigation; rf,Real Time Detection and Estimation of GNSS Interference Affected Region using ADS-B Data and Bayesian Modeling,Proceedings of the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2023)
+Steiner23,2023,Navigation & Signal Processing,18,gnss; navigation; rf,Discrete Mathematical Model for GNSS Interference Detection Using ADS-B Quality Parameters,Proceedings of the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2023)
+Lizarribar23,2023,Navigation & Signal Processing,13,signal; positioning; communication,SkyPos: Real-world evaluation of self-positioning with aircraft signals for IoT devices,IEEE Journal on Selected Areas in Communications
+Feldman23,2023,Other,0,,Leveraging Temporal Graph Networks Using Module Decoupling,arXiv preprint arXiv:2310.02721.
+Matteson23a,2023,Other,0,,The Use of Genomic Epidemiology in Viral Outbreak Monitoring and Intervention,The Scripps Research Institute
+Cloete23,2023,Other,0,,Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP),
+Martin23,2023,Air Traffic Management,5,airspace,A STAM Model Based on Spatiotemporal Airspace Sector Interdependencies to Minimize Tactical Flow Management Regulations,Aerospace
+Ciocca23,2023,Urban Air Mobility & Simulation,7,unmanned,Design and implementation of a traffic display system for the ground control segment of an unmanned hexacopter,Politecnico Milano
+Dhief23,2023,Air Traffic Management,4,arrival,Meta-Heuristics Approach for Arrival Sequencing and Delay Absorption through Automated Vectoring,IEEE 2023 Congress on Evolutionary Computation
+Figuet23b,2023,Air Traffic Management,4,collision risk,Data-driven mid-air collision risk modelling using extreme-value theory,Aerospace Science and Technology
+Zhu23,2023,COVID-19 & Societal Impact,13,sars-cov-2; omicron,International Importation Risk Estimation of SARS-CoV-2 Omicron Variant with Incomplete Mobility Data,Transboundary and Emerging Diseases
+Joerger23,2023,Navigation & Signal Processing,11,gnss; rf,The Unsolved Mystery of the 2022 Texas Interference,Inside GNSS
+Huang23b,2023,Machine Learning & Noise Analysis,6,neural; graph neural,BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural Networks,arXiv preprint arXiv:2308.16385
+Mcdougall23,2023,Navigation & Signal Processing,8,signal; sensor,LoVe is in the Air-Location Verification of ADS-B Signals using Distributed Public Sensors,arXiv preprint arXiv:2308.15104
+Zhang23a,2023,Trajectory Prediction,25,trajectory prediction; flight trajectory; trajectory; prediction,Flight trajectory prediction enabled by time-frequency wavelet transform,Nature Communications
+Haufe23,2023,Other,0,,Digital Twins Storage and Application Service Hub (TWINSTASH),
+Wu23,2023,Crowdsourced Surveillance & Control,13,ads-b; surveillance,ADS-Bchain: A Blockchain-based Trusted Service Scheme for Automatic Dependent Surveillance-Broadcast,IEEE Transactions on Aerospace and Electronic Systems
+Gong23,2023,Cybersecurity & Anomaly Detection,10,anomaly,MSTP Network Data Traffic Anomaly Optimization Detection Algorithm,2023 3rd International Symposium on Computer Technology and Information Science (ISCTIS)
+Liu23a,2023,Other,0,,Extending Composable Data Services to the Realm of Embedded Systems,"University of California, Santa Cruz"
+Altun23,2023,Urban Air Mobility & Simulation,4,simulation,The Development of an Advanced Air Mobility Flight Testing and Simulation Infrastructure,Aerospace
+Hardell23,2023,Air Traffic Management,15,air traffic management; arrival; airport; operation,Performance Characterization of Arrival Operations with Point Merge at Oslo Gardermoen Airport,Fifteenth USA/Europe Air Traffic Management Research and Development Seminar (ATM2023)
+Ramseier23,2023,Other,0,,Estimation of the Fan Rotational Speed Using Flyover Audio Recordings,Journal of Aircraft
+Wallace23,2023,Other,0,,Three Case Studies on Small Uncrewed Aerial Systems Near Midair Collisions with Aircraft: An Evidence-Based Approach for Using Objective Uncrewed Aerial Systems Detection Technology,SAE International Journal of Aerospace
+Kovalchuk23,2023,Other,0,,The Impact of the Russian - Ukrainian War on the Global Aviation Industry,Kyiv School of Economics
+Fayin23,2023,Crowdsourced Surveillance & Control,4,radar,High Resolution Bistatic ISAR Images on Airliners,24th International Radar Symposium (IRS)
+Lukes23,2023,Trajectory Prediction,6,trajectories,Generating Realistic Aircraft Trajectories Using Generative Adversarial Networks,24th International Radar Symposium (IRS)
+Hermansson23,2023,Other,0,,Processing world scale air traffic data to find Near Mid-Air Collisions,"KTH, School of Engineering Sciences (SCI)"
+Huang23a,2023,Machine Learning & Noise Analysis,5,machine learning; learning,Temporal Graph Benchmark for Machine Learning on Temporal Graphs,arXiv preprint arXiv:2307.01026
+Daneshtalab23,2023,Other,0,,Evaluating the Robustness of ML Models To Out-of-Distribution Data Through Similarity Analysis,1st Workshop on Advanced AI Techniques for Data Management and Analytics (AIDMA)
+Figuet23a,2023,Air Traffic Management,10,air traffic management; collision risk,Data-Driven Airborne Collision Risk Modelling using a Probability Density Function,Fifteenth USA/Europe Air Traffic Management Research and Development Seminar (ATM2023)
+Pilko23,2023,Air Traffic Management,5,collision risk; operation,Quantifying Specific Operation Airborne Collision Risk through Monte Carlo Simulation,Aerospace
+Olive23,2023,Air Traffic Management,8,arrival; airport,Environmental inefficiencies for arrival flights at European airports,PloS one
+Hui23,2023,Urban Air Mobility & Simulation,4,simulation,AirTrafficSim: An open-source web-based air traffic simulation platform.,Journal of Open Source Software
+Chevallier23,2023,Other,0,,"Linear Contrails Detection, Tracking and Matching with Aircraft Using Geostationary Satellite and Air Traffic Data",Aerospace
+Gallagher23,2023,Other,0,,Spectral embedding of weighted graphs,arXiv preprint arXiv:1910.05534
+Liu23,2023,Navigation & Signal Processing,11,gnss; rf,GNSS Interference: Getting to the Source,Inside GNSS
+Burschyk23,2023,Other,0,,Scenario-based implications of liquid hydrogen storage tank insulation quality for a short-range aircraft concept,AIAA AVIATION 2023 Forum
+Behere23,2023,Trajectory Prediction,6,trajectory,A Method for the Parametric Representation of Take-off Time-Series Trajectory Data for Environmental Impact Assessment,AIAA AVIATION 2023 Forum
+Pfahler23,2023,Urban Air Mobility & Simulation,4,simulation,Comparison of Subset Simulation Samplers for Estimating the Risk of Mid-Air Collisions,AIAA AVIATION 2023 Forum
+Ferrando23,2023,Other,0,,Desarrollo de una web para la evaluacion del nivel de ruido generado por los aviones en aeropuertos,Universitat Politecnica de Valencia
+Vincent23,2023,Machine Learning & Noise Analysis,5,machine learning; learning,A new approach to aircraft categorization using machine learning to analyze aircraft behaviour,AIAA AVIATION 2023 Forum
+Polishchuk23,2023,Air Traffic Management,4,terminal,New Insight Towards Characterization of the Terminal Areas,AIAA AVIATION 2023 Forum
+Dubot23,2023,Urban Air Mobility & Simulation,7,drone,Mitigating Air Risk of Drone Operations in Low-level Airspace with a 4D Trajectory U-space Framework,AIAA AVIATION 2023 Forum
+Khaledian23,2023,Crowdsourced Surveillance & Control,6,surveillance,Interacting Multiple Model Filtering for Aircraft Guidance Modes Identification from Surveillance Data,"Journal of Guidance, Control, and Dynamics"
+Ma23,2023,Other,0,,Airborne Internet: An Ultra-Dense LEO Networks Empowered Satellite-to-Aircraft Access and Resource Management Approach,IEEE Internet of Things Journal
+Jacobs23,2023,Other,0,,Detecting Global Events with Bayesian Changepoint Detection on Flight Data,Proceedings of the Annual General Donald R. Keith Memorial Conference
+Duarte23,2023,Trajectory Prediction,6,trajectories,Outlier Detection and Cleaning in Trajectories: A Benchmark of Existing Tools,arXiv preprint arXiv:2305.08750
+Chen23,2023,Other,0,,STO2Vec: A Multiscale Spatio-Temporal Object Representation Method for Association Analysis,ISPRS International Journal of Geo-Information
+Huang23,2023,Other,0,,Fast and Attributed Change Detection on Dynamic Graphs with Density of States,arXiv preprint arXiv:2305.08750
+Zorita19,2019,Other,0,,Reconstruccion de trayectorias de aeronaves usando Simulated Annealing para resolver una version del problema del viajante (TSP),Valladolid
+Xue21,2021,Other,0,,Complex Network Variability Analysis with Impact of Major Events on Aviation Networks,2021 2nd International Conference on Intelligent Computing and Human-Computer Interaction (ICHCI)
+Habler21,2021,Air Traffic Management,5,airspace,Analyzing Sequences of Airspace States to Detect Anomalous Traffic Conditions,IEEE Transactions on Aerospace and Electronic Systems
+Sun21c,2021,Crowdsourced Surveillance & Control,13,ads-b; mode s,The 1090 megahertz riddle: a guide to decoding mode s and ads-b signals,
+Ramos19,2019,Other,0,,Despliegue de un cluster Hadoop con Cloudera en un sistema de virtualizacion basado en Proxmox,Valladolid
+2018,2018,Crowdsourced Surveillance & Control,13,ads-b; surveillance,Low-cost ADS-B Collectors for Distributed Aircraft Surveillance,Proceedings of the Euro American Conference on Telematics and Information Systems
+Gallegos22,2022,Crowdsourced Surveillance & Control,7,ads-b,Implementaci'on de un receptor de datos ADS-B basado en SDR y desarrollo de una interfaz de visualizaci'on para supervisar en tiempo real la trayectoria de una aeronave de la FAE,
+Ahrenhold23,2023,Other,0,,Enabling green approaches by FMS-AMAN coordination,Aerospace
+Iva21,2021,Other,0,,Razvoj i integracija web aplikacija na bazi strujanja podataka,University of Zagreb. Faculty of Organization and Informatics.
+Lopez21,2021,Machine Learning & Noise Analysis,5,deep learning; learning,Predictive maintenance using deep learning,Barcelona
+Penas22,2022,Machine Learning & Noise Analysis,5,deep learning; learning,Prediccion de trayectorias de aeronaves empleando algoritmos de Deep Learning,Valladolid
+Santiago21,2021,Other,0,,Analisis de diferentes modelos de aprendizaje automatico para estimar los tiempos de llegada de las aeronaves,Valladolid
+Alexandrou23,2023,Air Traffic Management,4,airport,Comparative Analysis of On-site vs Off-site green-Hydrogen Value Chain Scenarios to cover projected Aviation demand: A case for Toulouse Blagnac Airport in France,KTH
+Katevrina19,2019,Other,0,,Kapacita vzdušného prostoru,Prague
+Alfery19,2019,Other,0,,Systém pro automatickou detekci zpožděných letů a dopad na itineráře cestujícíchh,Brno
+Dekoninck20a,2020,Other,0,,Geluidshinder-Evaluatie van de MIRA indicatorset,
+Wang20,2020,Crowdsourced Surveillance & Control,7,ads-b,ADS-B Anomalous Data Detection Model Based on PSO-MKSVDD,电子与信息学报
+Blatt22,2022,Navigation & Signal Processing,12,signal processing; signal,Call-sign recognition and understanding for noisy air-traffic transcripts using surveillance information,"ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+Venturelli21,2021,Navigation & Signal Processing,10,navigation; rf,Characterizing Effective Navigation Performance of Legacy Aircraft to Enable Reduced Procedural Separation in Support of Advanced Air Mobility,AIAA AVIATION 2021 FORUM
+Rosenow21,2021,Trajectory Prediction,6,trajectory,Impact of Chinese and European Airspace Constraints on Trajectory Optimization,Aerospace
+Adam22,2022,Crowdsourced Surveillance & Control,7,ads-b,Vyhodnoceni variability parametruu kvality polohove informace v ADS-B zpravach,Prague
+Murphy22,2022,Navigation & Signal Processing,3,rf,Hard-Real-Time Computing Performance in a Cloud Environment,Old Dominion University
+Luopajarvi22,2022,Other,0,,Selitettavan tekoalyn kaytto lentoliikenteen luokittelussa koneoppimismenetelmilla,JYU
+Cassisi22,2022,Other,0,,Visualisierung von Datenströmen,informatikJournal
+Michal22,2022,Other,0,,Nastroj pro identifikaci a dozor ilegalni obchodni letecke dopravy,Prague
+Rosenow22,2022,Other,0,,Factors Impacting Chinese and European Vertical Fight Efficiency,Aerospace
+Chevrot22a,2022,Cybersecurity & Anomaly Detection,10,anomalies,Detection of contextual anomalies in air traffic data using neural network models,Universite Bourgogne Franche-Comte
+Jada21,2021,Navigation & Signal Processing,15,gnss; navigation,Evaluation of PNT Situational Awareness Algorithms and Methods,Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021)
+Lenz22,2022,COVID-19 & Societal Impact,15,covid; pandemic,Investment rationale of Robinhood users in the aviation industry during the covid-19 pandemic,Universidade Nova de Lisboa
+Barbosa18,2018,Other,0,,Using Severe Convective Weather Information for Flight Planning,"Intelligent Systems Design and Applications: 18th International Conference on Intelligent Systems Design and Applications (ISDA 2018) held in Vellore, India, December 6-8, 2018, Volume 2"
+Liu22d,2022,Cybersecurity & Anomaly Detection,8,security,Uncertainty-Aware Behavior Modeling and Quantitative Safety Evaluation for Automatic Flight Control Systems,"2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS)"
+Chandranegara20,2020,Other,0,,Analisa data pesawat terbang menggunakan metode elimination void data dan smoothing data,POROS TEKNIK
+Rodrigues22,2022,COVID-19 & Societal Impact,8,covid,Data Analysis in the Airline Industry: Revealing the Impacts of COVID-19 on Global Air Transport (and Vice Versa),Anais do XVII Escola Regional de Banco de Dados
+Sallouha21,2021,Crowdsourced Surveillance & Control,3,crowdsourced,Aerial vehicles tracking using noncoherent crowdsourced wireless networks,IEEE transactions on vehicular technology
+Karam22,2022,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Supervised ADS-B Anomaly Detection Using a False Data Generator,"2022 2nd International Conference on Computer, Control and Robotics (ICCCR)"
+Abilpatta22,2022,COVID-19 & Societal Impact,15,covid; pandemic,Features of Europe’s air transport network formation during 2020 in the context of the COVID-19 pandemic,Abstracts of the ICA
+Barbosa20,2020,Other,0,,PLANEJAMENTO DE VOO SOB CONDIÇÕES METEOROLÓGICAS ADVERSAS: UM SISTEMA DE APOIO A DECISÃO,
+Topkova22,2022,Other,0,,Evaluation of DME Network for Ensuring RNAV Capability in the European Region,Czech Technical University
+Price23,2023,Cybersecurity & Anomaly Detection,8,attack,A Machine Learning Approach for the Detection of Injection Attacks on ADS-B Messaging Systems,"2023 International Conference on Computing, Networking and Communications (ICNC)"
+alTamimi23,2023,Crowdsourced Surveillance & Control,13,ads-b; surveillance,Cost-effective Detection Model for Injected Automatic Dependent Surveillance-Broadcast Messages (ADS-B) for Secure Aviation Control,
+Sathaye22,2022,Cybersecurity & Anomaly Detection,38,spoofing; spoof; jamming; security,On the Implications of Spoofing and Jamming Aviation Datalink Applications,Proceedings of the 38th Annual Computer Security Applications Conference
+Sathaye23,2023,Cybersecurity & Anomaly Detection,8,secure,Towards Secure Autonomous Aerial Vehicle Navigation,Northeastern University
+Zuluagagomez23,2023,Air Traffic Management,6,air traffic control,Lessons Learned in ATCO2: 5000 hours of Air Traffic Control Communications for Robust Automatic Speech Recognition and Understanding,
+Shvydun23,2023,Other,0,,Models of similarity in complex networks,PeerJ Computer Science
+Shaikh23,2023,Other,0,,Content-based filter queries on DNA data storage systems,Scientific Reports
+Karam22a,2022,Cybersecurity & Anomaly Detection,10,anomalies,Automatic detection of business data anomalies with deep learning and application to the ADS-B protocol,Universite Bourgogne Franche-Comte
+Xu22,2022,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,A Clustering-Based Anomaly Detection for Unstable Approach in Terminal Airspace,Artificial Intelligence in China
+Xu23,2023,Other,0,,"Estimating the importation risk of mpox virus in 2022 to Hong Kong, China",medRxiv
+Hansman22,2022,Air Traffic Management,9,departure; airport; operation,Analysis of community departure noise exposure variation using airport noise monitor networks and operational ADS-B data,INTER-NOISE and NOISE-CON Congress and Conference Proceedings
+Xue23,2023,Other,0,,Examining the Economic Costs of the 2003 Halloween Storm Effects on the North Hemisphere Aviation Using Flight Data in 2019,Space Weather
+Ayala23,2023,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Neural networks for aircraft trajectory prediction: answering open questions about their performance,IEEE Access
+Markani23,2023,Cybersecurity & Anomaly Detection,8,security,Security Establishment in ADS-B by Format-Preserving Encryption and Blockchain Schemes,Applied Sciences
+Zhang23,2023,Air Traffic Management,10,airspace; sectorization,Multi-Objective 3D Airspace Sectorization Problem Using NSGA-II with Prior Knowledge and External Archive,Aerospace
+Marouf23,2023,Urban Air Mobility & Simulation,4,simulation,High-Fidelity Numerical Simulations,"Smart Morphing and Sensing for Aeronautical Configurations: Prototypes, Experimental and Numerical Findings from the H2020 N° 723402 SMS EU Project"
+Mysore22,2022,Machine Learning & Noise Analysis,9,noise; clustering,A quantitative approach to density-based clustering of flight trajectories for efficient air traffic noise simulations,INTER-NOISE and NOISE-CON Congress and Conference Proceedings
+Sola22,2022,Other,0,,"Analys av flygprocedurer f""or en minskad milj""opaaverkan: En optimal “trade-off” strategi f""or emissioner och buller Slutrapport av CSA projektet TREVOL",
+Olivares23a,2023,Other,0,,Markov-modulated model for landing flow dynamics: An ordinal analysis validation,arXiv preprint arXiv:2302.02702
+Cui23,2023,Machine Learning & Noise Analysis,2,data-driven,A methodology for the design and development of an aerospace-specific data repository to support data-driven research,Royal Military College of Canada
+Salgas23,2023,Other,0,,Top Level Aircraft Requirements relaxation for a single-aisle aircraft: a case study on fleet-wide CO2 emissions and economic impacts,AIAA SCITECH 2023 Forum
+Chen22,2022,Trajectory Prediction,8,forecast; forecasting,Short-Term Air Traffic Flow Forecasting Based on Model Fusion,Proceedings of the 4th International Conference on Advanced Information Science and System
+Broniewski22,2022,Trajectory Prediction,6,trajectory,Using MobilityDB and Grafana for Aviation Trajectory Analysis,The 10th OpenSky Symposium
+Ghosh23,2023,Other,0,,A Generalized Estimating Equation Approach to Network Regression,arXiv preprint arXiv:2301.04804
+Southall23,2023,Navigation & Signal Processing,3,rf,Design and initial performance of the prototype for the BEACON instrument for detection of ultrahigh energy particles,"Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+Ciupeanu23,2023,COVID-19 & Societal Impact,8,covid,"Investigating air travel network changes in Canada, USA and Europe during COVID-19 using open source data",Researchsquare
+Yi22,2022,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,ADS-B Anomaly Detection Algorithm Based on LSTM-ED and SVDD,China Aeronautical Science and Technology Youth Science Forum
+Figuet23,2023,Navigation & Signal Processing,8,gnss,Analysis of GNSS Disruptions in European Airspace,Precise Time and Time Interval Meeting (PTTI)
+Olivares23,2023,Other,0,,Measuring landing independence and interactions using statistical physics,Transportation Research Part E: Logistics and Transportation Review
+Krauth22,2022,Trajectory Prediction,6,trajectories,Deep generative modelling of aircraft trajectories in terminal maneuvering areas,Machine Learning with Applications
+Tait22,2022,Crowdsourced Surveillance & Control,4,opensky,Investigating the Occurrence of Aircraft Exhaust Plume Intersections Using Open-Source Air Traffic Data,The 10th OpenSky Symposium
+Hardell22b,2022,Machine Learning & Noise Analysis,7,noise,Evaluation of the Noise Benefits from Performing CDO in TMA Using OpenSky Data,The 10th OpenSky Symposium
+Kamaruzzaman22,2022,Crowdsourced Surveillance & Control,11,ads-b; opensky,ATC Level Tactical Manoeuvring during Descent for Mitigating Impact of ADS-B Message Injection Cyber Attack,The 10th OpenSky Symposium
+Southall22a,2022,Navigation & Signal Processing,4,radio,Experimental Development towards the Beacon Prototype Array and the Radio Neutrino Observatory in Greenland,The University of Chicago
+Hunemohr22a,2022,Urban Air Mobility & Simulation,7,uav,Analysis of Helicopter Flights in Urban Environments for UAV Traffic Management,The 10th OpenSky Symposium
+Rotherham22,2022,Air Traffic Management,4,terminal,Terminal Manoeuvre Area Effects on Aircraft Engine Dust Ingestion,The 10th OpenSky Symposium
+Figuet22,2022,Cybersecurity & Anomaly Detection,10,jamming,GNSS Jamming and Its Effect on Air Traffic in Eastern Europe,The 10th OpenSky Symposium
+Sun22a,2022,Crowdsourced Surveillance & Control,4,opensky,Environmental Footprint of Private and Business Jets,The 10th OpenSky Symposium
+Xue22,2022,Other,0,,An Optimized Solution to Long-Distance Flight Routes Under Extreme Cosmic Radiation,Space Weather
+Laughner21a,2021,COVID-19 & Societal Impact,15,covid; pandemic,The 2020 COVID-19 pandemic and atmospheric composition: Back to the future,Authorea Preprints
+Norman22,2022,Crowdsourced Surveillance & Control,4,opensky,"Open-Source Flight Data: Free, but at What Cost?",The 10th OpenSky Symposium
+Liu22b,2022,Navigation & Signal Processing,16,gnss; localization; rf,Real-time Detection and Localization of GNSS Interference Source,Inside GNSS
+Liu22c,2022,Navigation & Signal Processing,15,gnss; navigation,Protecting GNSS for Safe Aviation,Proceedings of the 35th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2022)
+Liu21,2021,Navigation & Signal Processing,18,gnss; navigation; rf,GNSS Interference Detection Using Machine Learning Algorithms on ADS-B Data,Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021)
+Lan22,2022,Other,0,,Contrail Lifetime in Context of Used Flight Levels,Sustainability
+Puhr22,2022,Crowdsourced Surveillance & Control,8,opensky; radar,Usage of Geometric Altitude for Radar Plot Position Improvements,The 10th OpenSky Symposium
+Strohmeier22,2022,Crowdsourced Surveillance & Control,4,opensky,Evading the Public Eye: On Astroturfing in Open Aviation Data,The 10th OpenSky Symposium
+Perrichon22,2022,Crowdsourced Surveillance & Control,11,ads-b; opensky,A Geometric Approach to Study Aircraft Trajectories: The Benefits of OpenSky Network ADS-B Data,The 10th OpenSky Symposium
+Arts22a,2022,Crowdsourced Surveillance & Control,4,opensky,Aircraft Go-Arounds Associated to Vessel Traffic: Hamburg Finkenwerder Case Study,The 10th OpenSky Symposium
+Rozel22,2022,Crowdsourced Surveillance & Control,15,ads-b; opensky; radar,Construction of a Radar Cross-Section Database Using ADS-B Data from the OpenSky Network,The 10th OpenSky Symposium
+Renz22,2022,Crowdsourced Surveillance & Control,4,opensky,Using OpenSky Data for Teaching Software Engineering to Undergraduates,The 10th OpenSky Symposium
+Olive22,2022,Crowdsourced Surveillance & Control,4,opensky,A Quantitative Approach to Air Traffic Safety at Very Low Levels,The 10th OpenSky Symposium
+Monstein22,2022,Trajectory Prediction,6,trajectory,Large Landing Trajectory Dataset for Go-Around Analysis,The 10th OpenSky Symposium
+Schwarz22,2022,COVID-19 & Societal Impact,15,covid; pandemic,Stacking Ensemble Classification applied to US flight delay prediction during the COVID-19 pandemic,Uppsala University
+Prasad22,2022,Air Traffic Management,6,air traffic control,Grammar Based Speaker Role Identification for Air Traffic Control Speech Recognition,Proceedings of the 12th SESAR Innovation Days
+Roosenbrand22,2022,Other,0,,Examining Contrail Formation Models with Open Flight and Remote Sensing Data,Proceedings of the 12th SESAR Innovation Days
+Fremond22,2022,Urban Air Mobility & Simulation,12,urban air mobility; simulation,Demonstrating Advanced U-space Services for Urban Air Mobility in a Co-Simulation Environment,Proceedings of the 12th SESAR Innovation Days
+Fala22,2022,Crowdsourced Surveillance & Control,7,ads-b,A method for automatic airport operation counts using crowd-sourced ADS-B data,Aviation
+Oncu22,2022,Crowdsourced Surveillance & Control,4,radar,Mode-S Radar Interrogation Algorithm Design for Dense Air Traffic Environment,Radioengineering
+Sabater22,2022,Other,0,,Development of Efficient Surrogate-Assisted Methods to Support Robust Design of Transonic Wings,TU Braunschweig
+Gholami22,2022,Machine Learning & Noise Analysis,3,artificial intelligence,Interpretable Artificial Intelligence and Algorithmic Decision Making Processes to Analyze User Behaviors and Their Socio-Economic Impacts,UC Davis
+Zuluaga-Gomez22,2022,Air Traffic Management,6,air traffic control,ATCO2 corpus: A Large-Scale Dataset for Research on Automatic Speech Recognition and Natural Language Understanding of Air Traffic Control Communications,arXiv preprint arXiv:2211.04054
+Greco22,2022,Machine Learning & Noise Analysis,14,noise; acoustic,Assessing the environmental noise of next-generation regional jet aircraft concepts in a generic airport scenario,Proceedings of the 24th International Congress on Acoustics
+Lemetti22,2022,COVID-19 & Societal Impact,15,covid; pandemic,Arrival flight efficiency in pre- and post-Covid-19 pandemics,Journal of Air Transport Management
+Hernandez22,2022,Air Traffic Management,6,air traffic management,Time in Advance Go-Around Predictions for Decision Support in Air Traffic Management,2022 IEEE/AIAA 41st Digital Avionics Systems Conference (DASC)
+Liang22a,2022,COVID-19 & Societal Impact,8,covid,Undergraduate Research on Physics-Informed Graph Attention Networks for COVID-19 Prediction,"Journal of Systemics, Cybernetics and Informatics"
+Medeiros22,2022,COVID-19 & Societal Impact,8,covid,Tracing and analyzing COVID-19 dissemination using knowledge graphs,Procedia Computer Science
+Hünemohr22,2022,Crowdsourced Surveillance & Control,7,ads-b,Usage Monitoring of Helicopter Gearboxes with ADS-B Flight Data,Aerospace
+Passarella22,2022,Other,0,,Behavioral Evidence of Public Aircraft with Historical Data: The case of Boeing 737 MAX 8 PK-LQP,Journal of Applied Engineering Science
+Rizvi22,2022,COVID-19 & Societal Impact,7,pandemic,Deep Learning-Derived Optimal Aviation Strategies to Control Pandemics,arXiv preprint arXiv:2210.10888
+Makar22,2022,Crowdsourced Surveillance & Control,4,opensky,Analiza putanja zrakoplova korivstenjem opavzanja iz mrevze OpenSky Network,University of Rijeka. Faculty of Engineering
+Simnacher22,2022,COVID-19 & Societal Impact,8,covid,Extension of generalized additive models to graph-valued data with application to Covid-19 impacts on European air transportation,Humboldt-Universität zu Berlin
+Ostroumov22,2022,Other,0,,Preliminary Estimation of war Impact in Ukraine on the Global Air Transportation,2022 12th International Conference on Advanced Computer Information Technologies (ACIT)
+Dacus22,2022,Navigation & Signal Processing,23,gnss; navigation; localization; rf,Improved RFI Localization Through Aircraft Position Estimation During Losses in ADS-B Reception,Proceedings of the 35th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2022)
+Perez22b,2022,Machine Learning & Noise Analysis,5,machine learning; learning,Learning Assurance Analysis for Further Certification Process of Machine Learning Techniques: Case-Study Air Traffic Conflict Detection Predictor,Sensors
+Lindner22,2022,Cybersecurity & Anomaly Detection,8,attack,Live Aircraft Destination Prediction using Machine Learning & Adversarial Attacks,
+Arts22,2022,Other,0,,Digital Twin for Research Aircraft,Deutscher Luft- und Raumfahrtkongress 2022
+Schrefl22,2022,Other,0,,Creating an ATC knowledge graph in support of the artificial situational awareness system,Transportation Research Procedia
+Shvydun22,2022,COVID-19 & Societal Impact,8,covid,The Impact of COVID-19 on the Air Transportation Network,International Conference on Computers Communications and Control
+Jansen22,2022,Cybersecurity & Anomaly Detection,8,secure,Secure Point-to-Point Long-Distance Multi-Hop Connections in a Dense Airplane Mesh-Network using LDACS,"41st Digital Avionics Systems Conference, DASC 2022"
+Shafienya22,2022,Trajectory Prediction,25,trajectory prediction; flight trajectory; trajectory; prediction,4D flight trajectory prediction using a hybrid Deep Learning prediction method based on ADS-B technology: A case study of Hartsfield-Jackson Atlanta International Airport (ATL),Transportation Research Part C: Emerging Technologies
+Hu22,2022,Other,0,,Identifying Multithreat Encounters for Collision Avoidance Algorithm Validation Using Multiattribute Utility Theory,Journal of Aerospace Information Systems
+Liang22,2022,COVID-19 & Societal Impact,15,covid; pandemic,The Experience with the REU-sponsored Project on Predicting COVID-19 Pandemics Using Physics-Guided Graph Attention Networks,"13th International Multi-Conference on Complexity, Informatics and Cybernetics, IMCIC 2022"
+Alshabana22,2022,COVID-19 & Societal Impact,8,covid,Machine learning Models to Predict COVID-19 Cases,"2022 IEEE International IOT, Electronics and Mechatronics Conference (IEMTRONICS)"
+Testaverde22a,2022,COVID-19 & Societal Impact,8,covid,COVID-19 and Migration in the Mediterranean Region,
+Hirabayashi22,2022,Air Traffic Management,1,operation,Study of a Representative Wind Selection Method Using Track Data to Evaluate Pacific Flight Operations,SSRN
+Schier22,2022,Urban Air Mobility & Simulation,4,simulation,Multiple Remote Tower Simulation Environment,Virtual and Remote Control Tower
+Mahseredjian22,2022,Machine Learning & Noise Analysis,9,noise; data-driven,A Data-Driven Approach to Departure and Arrival Noise Abatement Flight Procedure Development,Massachusetts Institute of Technology
+Sun22,2022,Crowdsourced Surveillance & Control,7,opensky; crowdsourced,OpenSky Report 2022: Evaluating Aviation Emissions Using Crowdsourced Open Flight Data,2022 IEEE/AIAA 41th Digital Avionics Systems Conference (DASC)
+Hardell22a,2022,Air Traffic Management,9,terminal; arrival; operation,Performance Evaluation of the Arrival Operations in Terminal Area,ICAS 2022
+Hardell22,2022,Other,0,,Automated Traffic Scheduling in TMA with Point Merge to Enable Greener Descents,ICRAT 2022
+Liu22a,2022,Navigation & Signal Processing,3,rf,Processing Particle Data Flows with SmartNICs,2022 IEEE High Performance Extreme Computing Conference (IEEE HPEC 2022)
+Baxter20,2020,Other,0,,Sonification as a means to generative music,University of Sheffield
+Testaverde22,2022,COVID-19 & Societal Impact,8,covid,Building Resilient Migration Systems in the Mediterranean Region: Lessons from COVID-19,
+Zhu22,2022,Machine Learning & Noise Analysis,1,learning,An Adaptive Interactive Multiple-Model Algorithm Based on End-to-End Learning,Chinese Journal of Electronics
+Akhmetzhanov22,2022,Other,0,,"Emergence potential of Monkeypox in the Western Pacific Region, July 2022",International Journal of Infectious Diseases
+Poursafaei22,2022,Trajectory Prediction,4,prediction,Towards Better Evaluation for Dynamic Link Prediction,arXiv preprint arXiv:2207.10128
+Slimane22,2022,Cybersecurity & Anomaly Detection,8,attack,ADS-B Message Injection Attack on UAVs: Assessment of SVM-based Detection Techniques,2022 IEEE International Conference on Electro Information Technology (eIT)
+Southall22,2022,Navigation & Signal Processing,3,rf,Design and Initial Performance of the Prototype for the BEACON Instrument for Detection of Ultrahigh Energy Particles,arXiv preprint arXiv:2206.09660
+Zhang22,2022,Trajectory Prediction,13,flight trajectory; trajectory,An end-to-end framework for flight trajectory data analysis based on deep autoencoder network,Aerospace Science and Technology
+Brittain22,2022,Machine Learning & Noise Analysis,3,artificial intelligence,AAM-Gym: Artificial Intelligence Testbed for Advanced Air Mobility,arXiv preprint arXiv:2206.04513
+Barr22,2022,Navigation & Signal Processing,15,signal processing; signal; sensor,Stone Soup open source framework for tracking and state estimation: enhancements and applications,"Signal Processing, Sensor/Information Fusion, and Target Recognition XXXI"
+Cao22,2022,Trajectory Prediction,4,prediction,Track Segment Association Method Based on Bidirectional Track Prediction and Fuzzy Analysis,Aerospace
+Wang22,2022,Cybersecurity & Anomaly Detection,8,security,On the Security of the FLARM Collision Warning System,Proceedings of the 2022 ACM Asia Conference on Computer and Communications Security
+Kostur22,2022,COVID-19 & Societal Impact,8,covid,The Impact of the New Noronavirus (COVID-19) on Global Civil Aviation,Revista Europea de Derecho de la Navegación Marítima y Aeronáutica
+Quadros22,2022,Crowdsourced Surveillance & Control,7,ads-b,Global Civil Aviation Emissions Estimates for 2017–2022 Using ADS-B Data,Journal of Aircraft
+Le22,2022,COVID-19 & Societal Impact,8,covid,Framework for assessing and easing global COVID-19 travel restrictions,Scientific Reports
+Liu22,2022,Navigation & Signal Processing,23,gnss; navigation; localization; rf,GNSS Interference Source Localization Using ADS-B data,Proceedings of the 2022 International Technical Meeting of The Institute of Navigation
+Bolic22,2022,Trajectory Prediction,6,trajectory,Trajectory Clustering for Air Traffic Categorisation,Aerospace
+Darabseh22,2022,Cybersecurity & Anomaly Detection,8,security,Towards Security-Optimized Placement of ADS-B Sensors,arXiv preprint arXiv:2204.01994
+ConnieSun22,2022,COVID-19 & Societal Impact,8,covid,Using a Layered Ensemble of Physics-Guided Graph Attention Networks to Predict COVID-19 Trends,Applied Artificial Intelligence
+Meijer22,2022,COVID-19 & Societal Impact,15,covid; pandemic,Contrail coverage over the United States before and during the COVID-19 pandemic,Environmental Research Letters
+Arevalo20,2020,Other,0,,Prediccion de los tiempos de llegada de los vuelos mediante aprendizaje automatico,
+Fricke21,2021,Air Traffic Management,6,air traffic control,Reducing Europe’s Aviation Impact on Climate Change using enriched Air traffic Forecasts and improved efficiency benchmarks,Proceedings of the FABEC Research Workshop “Climate Change and Role of Air Traffic Control
+Perez22a,2022,Machine Learning & Noise Analysis,7,machine learning; classification; learning,Machine Learning classification techniques applied to static air traffic conflict detection,IOP Conference Series: Materials Science and Engineering
+Suratekar22,2022,COVID-19 & Societal Impact,13,sars-cov-2; delta variant,High diversity in Delta variant across countries revealed by genome-wide analysis of SARS-CoV-2 beyond the Spike protein,Molecular Systems Biology
+Chevrot22,2022,Cybersecurity & Anomaly Detection,30,anomaly detection; anomaly; security,CAE : Contextual Auto-Encoder for multivariate time-series anomaly detection in air transportation,Computers & Security
+Huynh22,2022,Machine Learning & Noise Analysis,7,noise,Delayed Deceleration Approach Noise Impact and Modeling Validation,Journal of Aircraft
+Matuso22,2022,Navigation & Signal Processing,8,gps,A ML-Based System for Predicting Flight Coordinates Considering ADS-B GPS Data: Problems and System Improvement,"International Conference on Emerging Internetworking, Data & Web Technologies"
+Sabater21,2021,Other,0,,Robust Design of 3D Shock Control Bumps to Transport Aircraft Under Realistic Uncertainties,32nd Congress of the International Council of the Aeronautical Sciences
+Perez22,2022,Machine Learning & Noise Analysis,5,machine learning; learning,Design of an ATC Tool for Conflict Detection Based on Machine Learning Techniques,Aerospace
+Monteiro22,2022,Crowdsourced Surveillance & Control,6,surveillance,"ISTSat-1, a space-based Automatic Dependent Surveillance-Broadcast demonstration CubeSat mission",International Journal of Satellite Communications and Networking
+Latif21,2021,Other,0,,Talking Realities: Audio Guides in Virtual Reality Visualizations,IEEE Computer Graphics and Applications
+Edmonds21,2021,Urban Air Mobility & Simulation,6,uas,Demonstrating an Equivalent Level of Safety for sUAS in Shielded Environments,Virginia Tech
+Banal21,2021,Navigation & Signal Processing,3,rf,Nur harte Corona-Regeln wirken sich auf den Passagierflugverkehr zwischen Deutschland und Mallorca aus,DIW Wochenbericht
+Kumar22,2022,Cybersecurity & Anomaly Detection,10,anomalies,Application of Isolation Forest for Detection of Energy Anomalies in ADS-B Trajectory Data,AIAA SCITECH 2022 Forum
+Zhongrui21,2021,Crowdsourced Surveillance & Control,7,ads-b,Aircraft Go-Around Detection Employing Open Source ADS-B Data,2021 IEEE 3rd International Conference on Civil Aviation Safety and Information Technology (ICCASIT)
+Schultz22,2022,Crowdsourced Surveillance & Control,7,ads-b,Data-driven airport management enabled by operational milestones derived from ADS-B messages,Journal of Air Transport Management
+Bai21,2021,COVID-19 & Societal Impact,13,sars-cov-2; omicron,International risk of SARS-CoV-2 Omicron variant importations originating in South Africa,medRxiv
+Graas21,2021,Trajectory Prediction,25,trajectory prediction; flight trajectory; trajectory; prediction,Quantifying Accuracy and Uncertainty in Data-Driven Flight Trajectory Predictions with Gaussian Process Regression,Proceedings of the 11th SESAR Innovation Days
+Dhief21,2021,Machine Learning & Noise Analysis,5,machine learning; learning,A Tree-based Machine Learning Model for Go-around Detection and Prediction,Proceedings of the 11th SESAR Innovation Days
+Sedov21,2021,Air Traffic Management,6,airspace; operation,Qualitative and Quantitative Risk Assessment of Urban Airspace Operations,Proceedings of the 11th SESAR Innovation Days
+Hardell21,2021,Air Traffic Management,9,terminal; arrival; operation,Towards a Comprehensive Characterization of the Arrival Operations in the Terminal Area,Proceedings of the 11th SESAR Innovation Days
+Moser21,2021,Cybersecurity & Anomaly Detection,8,attack,Modern Attacker Models and Countermeasures in Wireless Communication Systems-The Case of Air Traffic Communication,ETH Zurich
+Laughner21,2021,COVID-19 & Societal Impact,11,covid; societal,Societal shifts due to COVID-19 reveal large-scale complexities and feedbacks between atmospheric chemistry and climate change,PNAS
+Klower21,2021,Other,0,,Quantifying aviation's contribution to global warming,
+Jackson21,2021,Machine Learning & Noise Analysis,15,aircraft noise; noise,A System for Measurement and Analysis of Aircraft Noise Impacts,Proceedings of the 9th OpenSky Symposium 2021
+Bhanpato21,2021,Machine Learning & Noise Analysis,9,noise; data-driven,Data-Driven Analysis of Departure Procedures for Aviation Noise Mitigation,Proceedings of the 9th OpenSky Symposium 2021
+Burgess21,2021,Crowdsourced Surveillance & Control,4,opensky,Feasibility of Mapping Turbulence in Real-Time using Mode-S Data,Proceedings of the 9th OpenSky Symposium 2021
+Sun21b,2021,Crowdsourced Surveillance & Control,4,opensky,Evaluation of Aviation Emissions and Environmental Costs in Europe Using OpenSky and OpenAP,Proceedings of the 9th OpenSky Symposium 2021
+Filippone21b,2021,Crowdsourced Surveillance & Control,11,ads-b; opensky,Using OpenSky ADS-B Data to Estimate Aircraft Emissions,Proceedings of the 9th OpenSky Symposium 2021
+Glass21,2021,Navigation & Signal Processing,11,gnss; rf,Multi-Domain Detection and Attribution of GNSS Interference,Proceedings of the 9th OpenSky Symposium 2021
+Sun21a,2021,Crowdsourced Surveillance & Control,14,ads-b; opensky; receiver,ADS-B Signal Verification Using a Coherent Receiver,Proceedings of the 9th OpenSky Symposium 2021
+Markochev21,2021,Crowdsourced Surveillance & Control,10,opensky; receiver; crowdsourced,Aircraft localization using ATC data with nanosecond precision from distributed crowdsourced receivers,Proceedings of the 9th OpenSky Symposium 2021
+Corrado21b,2021,Cybersecurity & Anomaly Detection,10,anomalies,Characterizing Terminal Airspace System Spatial States and Detecting System-Level Anomalies,Proceedings of the 9th OpenSky Symposium 2021
+Smetanova21,2021,Air Traffic Management,4,airport,"Comparison of the Sequencing and Merging Procedures at Arlanda, Dublin and Vienna Airports Using Opensky Data",Proceedings of the 9th OpenSky Symposium 2021
+Kocour21a,2021,Crowdsourced Surveillance & Control,4,opensky,Automatic processing pipeline for collecting and annotating air-traffic voice communication data,Proceedings of the 9th OpenSky Symposium 2021
+Hoole21a,2021,Crowdsourced Surveillance & Control,11,ads-b; opensky,Helicopter Flight Manoeuvre Statistics via ADS-B: An Initial Investigation using the OpenSky Network,Proceedings of the 9th OpenSky Symposium 2021
+Fitzgerald21,2021,Trajectory Prediction,6,trajectories,Reference Trajectories: The Dataset Enabling Gate-To-Gate Flight Analysis,Proceedings of the 9th OpenSky Symposium 2021
+Silvestre21,2021,Air Traffic Management,4,arrival,On the use of Deep Neural Networks to improve flights estimated time of arrival predictions,Proceedings of the 9th OpenSky Symposium 2021
+Jourdan21,2021,Crowdsourced Surveillance & Control,4,opensky,I know where you are going: Predicting Flight Destinations of Corporate and State Aircraft,Proceedings of the 9th OpenSky Symposium 2021
+Krauth21,2021,Trajectory Prediction,6,trajectories,Synthetic aircraft trajectories generated with multivariate density models,Proceedings of the 9th OpenSky Symposium 2021
+Kool21,2021,Crowdsourced Surveillance & Control,7,ads-b,Detecting ATC commands in ADS-B data,TU Delft
+Koelle21a,2021,COVID-19 & Societal Impact,8,covid,Assessing the Global COVID-19 Impact on Air Transport with Open Data,2021 IEEE/AIAA 40th Digital Avionics Systems Conference (DASC)
+Koelle21,2021,Navigation & Signal Processing,3,rf,Building Back Better – Democratization of Performance Monitoring with Open Data,2021 IEEE/AIAA 40th Digital Avionics Systems Conference (DASC)
+Madar21,2021,Trajectory Prediction,6,trajectory,Application of Trajectory Clustering for Aircraft Conflict Detection,2021 IEEE/AIAA 40th Digital Avionics Systems Conference (DASC)
+Khan21,2021,Cybersecurity & Anomaly Detection,20,intrusion detection; intrusion,Intrusion Detection in Automatic Dependent Surveillance-Broadcast (ADS-B) with Machine Learning,2021 IEEE/AIAA 40th Digital Avionics Systems Conference (DASC)
+Weinert21a,2022,Air Traffic Management,4,terminal,Correlated Bayesian Model of Aircraft Encounters in the Terminal Area Given a Straight Takeoff or Landing,Aerospace
+Weinert21,2021,Other,0,,Benchmarking the Processing of Aircraft Tracks with Triples Mode and Self-Scheduling,arXiv preprint arXiv:2110.12858
+Zhao21,2021,Other,0,,The global transmission of new coronavirus variants,Environmental Research
+Canals21,2021,Crowdsourced Surveillance & Control,7,ads-b,Robust indoor localization with ADS-B,Proceedings of the 27th Annual International Conference on Mobile Computing and Networking
+Shafienya22a,2022,Trajectory Prediction,25,trajectory prediction; flight trajectory; trajectory; prediction,4D flight trajectory prediction based on ADS-B data: A comparison of CNN-GRU models,2022 IEEE Aerospace Conference (AERO)
+Linden21,2021,Air Traffic Management,4,runway,Curating Datasets for Visual Runway Detection,2021 IEEE/AIAA 40th Digital Avionics Systems Conference (DASC)
+Ayala21,2021,Other,0,,openSkies - Integration of Aviation Data into the R Ecosystem,The R Journal
+Olivares21,2021,Other,0,,Corrupted bifractal features in finite uncorrelated power-law distributed data,arXiv preprint arXiv:2110.07394
+Saez21,2021,Air Traffic Management,13,airspace; terminal; arrival,Traffic Synchronization with Controlled Time of Arrival for Cost-Efficient Trajectories in High-Density Terminal Airspace,Universitat Politècnica de Catalunya
+Olive21,2021,Air Traffic Management,6,air traffic management,A Framework to Evaluate Aircraft Trajectory Generation Methods,Fourteenth USA/Europe Air Traffic Management Research and Development Seminar (ATM2021)
+Kumar21,2021,Crowdsourced Surveillance & Control,7,ads-b,Classification and Analysis of Go-Arounds in Commercial Aviation Using ADS-B Data,Aerospace
+Mahseredjian21,2021,Machine Learning & Noise Analysis,7,noise,Advanced procedure noise model validation using Seattle International Airport noise monitor networks,INTER-NOISE and NOISE-CON Congress and Conference Proceedings
+Tengzelius21,2021,Machine Learning & Noise Analysis,15,aircraft noise; noise,Next generation aircraft noise-mapping,INTER-NOISE and NOISE-CON Congress and Conference Proceedings
+Rahman21,2021,Machine Learning & Noise Analysis,5,neural; classification,Multi-label Classification of Aircraft Heading Changes Using Neural Network to Resolve Conflicts,arXiv preprint arXiv:2109.04767
+Chevrot21,2021,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,DAE: Discriminatory Auto-Encoder for multivariate time-series anomaly detection in air transportation,arXiv preprint arXiv:2109.04247
+Wahlgren21,2021,Cybersecurity & Anomaly Detection,28,spoofing; spoof; attack,Detecting ADS-B spoofing attacks: using collected and simulated data,University of Linköping
+Suratekar21,2021,COVID-19 & Societal Impact,13,sars-cov-2; delta variant,High diversity in Delta variant across countries revealed via genome-wide analysis of SARS-CoV-2 beyond the Spike protein,bioRxiv
+Prasad21,2021,Other,0,,Grammar Based Identification Of Speaker Role For Improving ATCO And Pilot ASR,arXiv preprint arXiv:2108.12175
+Sun21,2021,Crowdsourced Surveillance & Control,11,ads-b; opensky,OpenSky Report 2021: Insights on ADS-B Mandate and Fleet Deployment in Times of Crisis,2021 IEEE/AIAA 40th Digital Avionics Systems Conference (DASC)
+Zhu21,2021,Other,0,,Research and Optimization of Meteo-Particle Model for Wind Retrieval,Atmosphere
+Ryker21,2021,Urban Air Mobility & Simulation,7,unmanned,Development of a detect-and-avoid sensor solution for the integration of a group 3 large unmanned aircraft system into the national airspace system,
+Andersson21,2021,Other,0,,Interactive Visualization of Air Traffic in OpenSpace,
+Leonardi21b,2021,Navigation & Signal Processing,11,gnss; sensor,ADS-B Crowd-Sensor Network and Two-Step Kalman Filter for GNSS and ADS-B Cyber-Attack Detection,Sensors
+Leonardi21a,2021,Cybersecurity & Anomaly Detection,18,jamming; attack,On Jamming Attacks in Crowdsourced Air Traffic Surveillance,IEEE Aerospace and Electronic Systems Magazine
+Widodo21,2021,COVID-19 & Societal Impact,15,covid; pandemic,The impact of job stress on employee productivity during Covid-19 pandemic at the aviation industry,IOP Conference Series: Earth and Environmental Science
+Awalivian21,2021,Machine Learning & Noise Analysis,3,artificial intelligence,Optimization of Aircraft Flight Scheduling and Routing Problem Using Multi-Objective Antlion Optimization,2021 International Conference on Artificial Intelligence and Computer Science Technology (ICAICST)
+Alvarez21,2021,Air Traffic Management,2,capacity,Demand and Capacity Modeling for Advanced Air Mobility,AIAA AVIATION 2021 FORUM
+Corrado21a,2021,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Deep Autoencoder for Anomaly Detection in Terminal Airspace Operations,AIAA AVIATION 2021 FORUM
+Thomas21,2021,Machine Learning & Noise Analysis,7,noise,Delayed Deceleration Approach Procedure Noise Modeling Validation using Noise Measurements and Radar Data,AIAA AVIATION 2021 FORUM
+Filippone21a,2021,Other,0,,Evaluation of commuter airplane emissions: A European case study,Transportation Research Part D: Transport and Environment
+Chen21,2021,Cybersecurity & Anomaly Detection,8,secure,Hybrid N-Inception-LSTM-Based Aircraft Coordinate Prediction Method for Secure Air Traffic,IEEE Transactions on Intelligent Transportation Systems
+Schafer20,2020,Navigation & Signal Processing,5,localization,LocaRDS: A Localization Reference Data Set,arXiv preprint arXiv:2012.00116
+Sundberg21,2021,COVID-19 & Societal Impact,8,covid,A Comprehensive COVID-19 Database for the United States,2021 Systems and Information Engineering Design Symposium (SIEDS)
+Fried21,2021,Cybersecurity & Anomaly Detection,16,attack; security,Facing Airborne Attacks on ADS-B Data with Autoencoders,Computers & Security
+Mitkas21,2021,Crowdsourced Surveillance & Control,7,ads-b,Extracting capacity metrics for General Aviation airports from ADS-B data,"University of Maryland, College Park"
+Honvek19,2019,Other,0,,Zobrazeni letoveho provozu na zakladve OGN informaci,MASARYKOVA UNIVERZITA
+Kocour21,2021,Other,0,,Boosting of contextual information in ASR for air-traffic call-sign recognition,Interspeech
+Tagebrand21,2021,Air Traffic Management,4,runway,Dataset Generation in a Simulated Environment Using Real Flight Data for Reliable Runway Detection Capabilities,Mälardalen University
+Karam21,2021,Crowdsourced Surveillance & Control,7,ads-b,Une étude comparative d’architectures d’apprentissage automatique pour la détection de messages ADS-B malveillants,Proceedings of the Congrès National de la Recherche des IUT (CNRIUT 2021)
+Korber21,2021,Other,0,,Index-Accelerated Pattern Matching in Event Stores,Proceedings of the 2021 International Conference on Management of Data (SIGMOD/PODS '21)
+Quilty21,2021,COVID-19 & Societal Impact,8,sars-cov-2,Quarantine and testing strategies to reduce transmission risk from imported SARS-CoV-2 infections: a global modelling study,medRxiv
+Mink21,2021,Crowdsourced Surveillance & Control,7,ads-b,Near-Real-Time IDS for the US FAA’s NextGen ADS-B,Big Data and Cognitive Computing
+Hoole21,2021,Crowdsourced Surveillance & Control,11,surveillance; transponder,Landing gear ground manoeuvre statistics from automatic dependent surveillance-broadcast transponder data,The Aeronautical Journal
+Whiteley21,2021,Other,0,,Matrix factorisation and the interpretation of geodesic distance,arXiv preprint arXiv:2106.01260
+Cot21,2021,COVID-19 & Societal Impact,8,covid,Impact of US vaccination strategy on COVID-19 wave dynamics,Scientific Reports
+Bates21,2021,COVID-19 & Societal Impact,14,covid; lockdown,Global COVID-19 lockdown highlights humans as both threats and custodians of the environment,Biological Conservation
+Michel21,2021,Other,0,,Flying in Private Mode: Understanding and Improving the Privacy ICAO Address Program,Journal of Aerospace Information Systems
+Cretin21,2021,Crowdsourced Surveillance & Control,6,surveillance,Conception et génération de tests par altération de données pour lessystèmes de contrôle et de surveillance des transports.,Université de Franche-Comté
+Yang21,2021,Crowdsourced Surveillance & Control,7,ads-b,AEALV: Accurate and Efficient Aircraft Location Verification for ADS-B,IEEE Transactions on Cognitive Communications and Networking
+Arts21,2021,Machine Learning & Noise Analysis,5,machine learning; learning,A Novel Approach to Flight Phase Identification using Machine Learning,Universität Hamburg
+Segundo21,2021,COVID-19 & Societal Impact,8,covid,Measuring economic activity from space: a case study using flying airplanes and COVID-19,arXiv preprint arXiv:2104.10345
+Ikli21,2021,Air Traffic Management,5,runway; operation,The aircraft runway scheduling problem: A survey,Computers & Operations Research
+Le21,2021,COVID-19 & Societal Impact,15,covid; pandemic,Policies for Easing COVID-19 Pandemic Travel Restrictions,medRxiv
+Harrington21,2021,Machine Learning & Noise Analysis,8,machine learning; artificial intelligence; learning,A Bayesian spatio-temporal aircraft route predictive algorithm with applications to military operations,Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications III
+Zuluaga21,2021,Crowdsourced Surveillance & Control,6,surveillance,Contextual Semi-Supervised Learning: An Approach To Leverage Air-Surveillance and Untranscribed ATC Data in ASR Systems,arXiv preprint arXiv:2104.03643
+Hart21,2021,Other,0,,Aerial Captures: Extractivism and the Logistical Media of Air Travel in Postwar Canada,"Queen’s University, Kingston, Ontario, Canada"
+Liu20b,2020,Navigation & Signal Processing,18,gnss; navigation; rf,Characterization of ADS-B Performance under GNSS Interference,Proceedings of the 33rd International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2020)
+Underhill21,2021,Air Traffic Management,5,airspace,Applicability and Surrogacy of Uncorrelated Airspace Encounter Models at Low Altitudes,Journal of Air Transportation
+Corrado21,2021,Cybersecurity & Anomaly Detection,10,anomalies,"A unified, clustering-based framework for detection of spatial and energy anomalies in trajectories utilizing ADS-B data",Transportation Research Part C Emerging Technologies
+Vernotte21,2021,Air Traffic Management,6,air traffic control,A domain-specific language to design false data injection tests for air traffic control systems,International Journal on Software Tools for Technology Transfer
+Walter21,2021,Navigation & Signal Processing,18,gps; navigation; rf,Investigation into September 2020 GPS SVN 74 Performance Anomaly,Proceedings of the 2021 International Technical Meeting of The Institute of Navigation
+Jansen21,2021,Cybersecurity & Anomaly Detection,16,attack; security,Trust the Crowd: Wireless Witnessing to DetectAttacks on ADS-B-Based Air-Traffic Surveillance,The Network and Distributed System Security Symposium (NDSS)
+vanHeerwaarden21,2021,COVID-19 & Societal Impact,14,covid; lockdown,Record high solar irradiance in Western Europe during first COVID-19 lockdown largely due to unusual weather,Commun Earth Environ
+Filippone21,2021,Crowdsourced Surveillance & Control,7,ads-b,Prediction of aircraft engine emissions using ADS-B flight data,The Aeronautical Journal
+Schumann21,2021,COVID-19 & Societal Impact,8,covid,Air traffic and contrail changes during COVID-19 over Europe: A model study,Atmospheric Chemistry and Physics Discussions
+Schmand20,2020,Other,0,,Einfluss von Temperatur und Wind auf die Steigrate von Verkehrsflugzeugen,Innovation im Fokus
+Bannour20,2020,Navigation & Signal Processing,8,localization; communication,Real-Time Tracking of Aircrafts in Crowdsourced Air Traffic Networks with Simple Localization Estimates,"2020 International Symposium on Networks, Computers and Communications (ISNCC)"
+Cacciapaglia20,2020,COVID-19 & Societal Impact,8,covid,You better watch out: US COVID-19 wave dynamics versus vaccination strategy,arXiv preprint arXiv:2012.12004
+Poppe20,2020,Trajectory Prediction,6,trajectory,Clustering Climb Profiles for Vertical Trajectory Analysis,Proceedings of the 10th SESAR Innovation Days
+Dhief20,2020,Trajectory Prediction,4,prediction,Speed Control Strategies for E-AMAN using Holding Detection-Delay Prediction Model,Proceedings of the 10th SESAR Innovation Days
+Ganic20,2020,Machine Learning & Noise Analysis,7,noise,Dynamic noise maps for Ljubljana airport,Proceedings of the 10th SESAR Innovation Days
+Hardell20,2020,Air Traffic Management,5,arrival; operation,Fine-Grained Evaluation of Arrival Operations,Proceedings of the 10th SESAR Innovation Days
+Lemetti20a,2020,COVID-19 & Societal Impact,8,covid,Arrival Flight Efficiency in Numbers: What New the Covid-19 Crisis is Bringing to the Picture?,Proceedings of the 10th SESAR Innovation Days
+Polishchuk20,2020,Air Traffic Management,4,separation,How to Achieve CDOs for All Aircraft: Automated Separation in TMAs,Proceedings of the 10th SESAR Innovation Days
+Russell20,2020,COVID-19 & Societal Impact,8,covid,Effect of internationally imported cases on internal spread of COVID-19: a mathematical modelling study,The Lancet Public Health
+Zeh20,2020,Trajectory Prediction,10,trajectory; prediction,Prediction of the Propagation of Trajectory Uncertainty for Climbing Aircraft,2020 AIAA/IEEE 39th Digital Avionics Systems Conference (DASC)
+Pham20,2020,Air Traffic Management,9,air traffic control; controller,An Air Traffic Controller Action Extraction-Prediction Model Using Machine Learning Approach,Complexity
+Aravindakshan20a,2020,COVID-19 & Societal Impact,8,covid,Preparing for a future COVID-19 wave: insights and limitations from a data-driven evaluation of non-pharmaceutical interventions in Germany,Scientific Reports
+Brisaboa20,2020,Trajectory Prediction,6,trajectories,An index for moving objects with constant-time access to their compressed trajectories,International Journal of Geographical Information Science
+Ren20,2020,Other,0,,Aviation Impacts on Fuel Efficiency of a Future More Viscous Atmosphere,Bulletin of the American Meteorological Society
+Laverick20,2020,Navigation & Signal Processing,8,gnss,Integrating the Opensky Network into GNSS-R climate monitoring research,Proceedings of the 8th OpenSky Symposium 2020
+Strohmeier20a,2020,Crowdsourced Surveillance & Control,7,opensky; crowdsourced,Research Usage and Social Impact of Crowdsourced Air Traffic Data,Proceedings of the 8th OpenSky Symposium 2020
+Figuet20,2020,Navigation & Signal Processing,10,localization; multilateration,Combined multilateration with machine learning for enhanced aircraft localization,Proceedings of the 8th OpenSky Symposium 2020
+Darabseh20a,2020,Crowdsourced Surveillance & Control,11,ads-b; opensky,On ADS-B Sensor Placement for Secure Wide Area Multilateration,Proceedings of the 8th OpenSky Symposium 2020
+Chen20,2020,Machine Learning & Noise Analysis,5,machine learning; learning,Using Open Source Data for Landing Time Prediction with Machine Learning Methods,Proceedings of the 8th OpenSky Symposium 2020
+Corrado20,2020,Air Traffic Management,9,airspace; terminal,Trajectory Clustering within the Terminal Airspace Utilizing a Weighted Distance Function,Proceedings of the 8th OpenSky Symposium 2020
+Weinert20a,2020,Crowdsourced Surveillance & Control,11,ads-b; opensky,Frequency of ADS-B Equipped Manned Aircraft Observed by the OpenSky Network,Proceedings of the 8th OpenSky Symposium 2020
+Liu20a,2020,Navigation & Signal Processing,16,gnss; localization; rf,GNSS Interference Characterization and Localization Using OpenSky ADS-B data,Proceedings of the 8th OpenSky Symposium 2020
+Figuet20a,2020,Machine Learning & Noise Analysis,5,machine learning; learning,Predicting Airplane Go-Arounds using Machine Learning and Open-Source Data,Proceedings of the 8th OpenSky Symposium 2020
+Olive20d,2020,Trajectory Prediction,6,trajectories,Detecting Events in Aircraft Trajectories: Rule-Based and Data-Driven Approaches,Proceedings of the 8th OpenSky Symposium 2020
+Giladi20,2020,Machine Learning & Noise Analysis,15,aircraft noise; noise,Validating Aircraft Noise Models,Proceedings of the 8th OpenSky Symposium 2020
+Dekoninck20,2020,Machine Learning & Noise Analysis,15,aircraft noise; noise,Detecting and Correlating Aircraft Noise Events below Ambient Noise Levels Using OpenSky Tracking Data,Proceedings of the 8th OpenSky Symposium 2020
+Sun20,2020,Crowdsourced Surveillance & Control,15,mode s; opensky; transponder,A Study of Mode S Transponder Comm-B Capabilities in Current Operational Aircraft,Proceedings of the 8th OpenSky Symposium 2020
+Gómez20,2020,Crowdsourced Surveillance & Control,10,opensky; surveillance,Automatic Call Sign Detection: Matching Air Surveillance Data with Air Traffic Spoken Communications,Proceedings of the 8th OpenSky Symposium 2020
+Chevrot20,2020,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Improved Testing of AI-Based Anomaly Detection Systems Using Synthetic Surveillance Data,Proceedings of the 8th OpenSky Symposium 2020
+Darabseh20,2020,Cybersecurity & Anomaly Detection,8,security,MAVPro: ADS-B message verification for aviation security with minimal numbers of on-ground sensors,Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks
+Allcott20,2020,COVID-19 & Societal Impact,7,pandemic,What Explains Temporal and Geographic Variation in the Early US Coronavirus Pandemic?,
+Zanin20,2020,Air Traffic Management,4,airport,Assessing Airport Landing Efficiency Through Large-Scale Flight Data Analysis,IEEE Access
+Lui20a,2020,Air Traffic Management,8,arrival; airport,Towards understanding the impact of convective weather on aircraft arrival traffic at the Hong Kong International Airport,IOP Conference Series: Earth and Environmental Science
+Smith20,2020,Cybersecurity & Anomaly Detection,8,attack,Understanding Realistic Attacks on Airborne Collision Avoidance Systems,arXiv preprint arXiv:2010.01034
+Siegel20,2020,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Spatiotemporal Anomaly Detection: Streaming Architecture and Algorithms,Colorado State University
+Dronner20,2020,Machine Learning & Noise Analysis,1,learning,Raster Time Series: Learning and Processing,University of Marburg
+vanHeerwaarden20,2020,COVID-19 & Societal Impact,14,covid; lockdown,COVID-19 lockdown contribution to spring surface solar irradiance record in Western Europe,arXiv preprint arXiv:2008.13497
+Olive20b,2020,Crowdsourced Surveillance & Control,12,mode s; surveillance,Detecting and Measuring Turbulence from Mode S Surveillance Downlink Data,ICRAT 2020
+Strohmeier20,2020,Crowdsourced Surveillance & Control,7,opensky; crowdsourced,Crowdsourced Air Traffic Data from the OpenSky Network 2019-20,Earth System Science Data Discussions
+Olive20a,2020,Trajectory Prediction,6,trajectory,Deep Trajectory Clustering with Autoencoders,ICRAT 2020
+Islind20,2020,COVID-19 & Societal Impact,15,covid; pandemic,Changes in mobility patterns in Europe during the COVID-19 pandemic: Novel insights using open source data,arXiv preprint arXiv:2008.10505
+Asensio20a,2020,COVID-19 & Societal Impact,14,covid; lockdown,Changes in noise levels in the city of Madrid during COVID-19 lockdown in 2020,The Journal of the Acoustical Society of America
+Asensio20,2020,COVID-19 & Societal Impact,14,covid; lockdown,A Taxonomy Proposal for the Assessment of the Changes in Soundscape Resulting from the COVID-19 Lockdown,International Journal of Environmental Research and Public Health
+Olive20c,2020,Crowdsourced Surveillance & Control,4,opensky,OpenSky Report 2020: Analysing In-flight Emergencies using Big Data,2020 IEEE/AIAA 39th Digital Avionics Systems Conference (DASC)
+Weinert20,2020,Crowdsourced Surveillance & Control,3,crowdsourced,Processing of Crowdsourced Observations of Aircraft in a High Performance Computing Environment,arXiv preprint arXiv:2008.00861
+ZamoraSaiz20,2020,Navigation & Signal Processing,3,rf,Databases in R,"An Introduction to Data Analysis in R: Hands-on Coding, Data Mining, Visualization and Statistics from Scratch"
+Lecocq20,2020,COVID-19 & Societal Impact,21,covid; pandemic; lockdown,Global quieting of high-frequency seismic noise due to COVID-19 pandemic lockdown measures,Science
+Adesina19,2019,Machine Learning & Noise Analysis,5,deep learning; learning,Aircraft Location Prediction using Deep Learning,MILCOM 2019-2019 IEEE Military Communications Conference (MILCOM)
+Smetanova20,2020,Air Traffic Management,8,arrival; airport,Evaluation of Arrival Sequencing at Arlanda Airport,University of Linköping
+Grantham20,2020,COVID-19 & Societal Impact,15,covid; pandemic,Effect of the Covid-19 pandemic on the air-transportation network,Northwestern
+Calvo20,2020,Cybersecurity & Anomaly Detection,20,spoofing; spoof,LSTM-based GNSS Spoofing Detection Using Low-cost Spectrum Sensors,"21st IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (IEEE WOWMOM 2020)"
+Pan20,2020,Trajectory Prediction,10,trajectories; prediction,Online Prediction of Mid-Flight Aircraft Trajectories with Multi-Timestep Markov Models,University of Alberta
+Liu20,2020,Cybersecurity & Anomaly Detection,10,spoof,GPS spoofed or not? Exploiting RSSI and TSS in crowdsourced air traffic control data,Distributed and Parallel Databases
+Garcia20,2020,COVID-19 & Societal Impact,8,covid,Global Data Science Project for COVID-19 Summary Report,arXiv preprint arXiv:2006.05573
+Saez20,2020,Air Traffic Management,9,arrival; separation; operation,Automation for Separation with Continuous Descent Operations: Dynamic Aircraft Arrival Routes,Journal of Air Transportation
+Lui20,2020,Air Traffic Management,8,terminal; arrival,Data-Driven Approach for Aircraft Arrival Sequencing Investigation at Terminal Maneuvering Area,AIAA Aviation Forum 2020
+Suzumura20,2020,COVID-19 & Societal Impact,8,covid,The Impact of COVID-19 on Flight Networks,arXiv preprint arXiv:2006.02950
+Aravindakshan20,2020,COVID-19 & Societal Impact,8,covid,Restarting after COVID-19: A Data-driven Evaluation of Opening Scenarios,medRxiv
+Olive20,2020,Crowdsourced Surveillance & Control,7,opensky; crowdsourced,Crowdsourced air traffic data from The OpenSky Network 2020,Zenodo
+Lemetti20,2020,Air Traffic Management,4,arrival,Identification of Significant Impact Factors on Arrival Flight Efficiency within TMA,International conference for Research & Air Traffic
+IMF20,2020,COVID-19 & Societal Impact,14,covid; lockdown,Ensuring Continuity in the Production of External Sector Statistics During the COVID-19 Lockdown,Special Series on Statistical Issues to Respond to COVID-19
+Iacus20,2020,COVID-19 & Societal Impact,8,covid,Estimating and Projecting Air Passenger Traffic during the COVID-19 Coronavirus Outbreak and its Socio-Economic Impact,arXiv preprint arXiv:2004.08460
+Li20,2020,Cybersecurity & Anomaly Detection,16,attack; security,Dynamic temporal ADS-B data attack detection based on sHDP-HMM,Computers & Security
+Cretin20,2020,Cybersecurity & Anomaly Detection,8,attack,Test Data Generation for False Data Injection Attack Testing in Air Traffic Surveillance,"International Conference on Software Testing, Verification and Validation (ICST)"
+Schultz20,2020,Crowdsourced Surveillance & Control,7,ads-b,Analysis of airport ground operations based on ADS-B data,2020 International Conference on Artificial Intelligence and Data Analytics for Air Transportation (AIDA-AT)
+Proud20,2020,Crowdsourced Surveillance & Control,7,ads-b,Go-Around Detection Using Crowd-Sourced ADS-B Position Data,Aerospace
+Alligier20,2020,Trajectory Prediction,4,prediction,Predictive Distribution of Mass and Speed Profile to Improve Aircraft Climb Prediction,Journal of Air Transportation
+Kamsing20,2020,Trajectory Prediction,6,trajectory,Aircraft trajectory recognition via statistical analysis clustering for Suvarnabhumi International Airport,International Conference on Advanced Communications Technology
+Stanzel19,2019,Crowdsourced Surveillance & Control,15,ads-b; opensky; radar,DFS ADS-B Implementation in High Density Radar Controlled Airspace - Experiences and Challenges,Proceedings of the 7th OpenSky Workshop 2019
+Polishchuk19,2019,Air Traffic Management,4,airport,Evaluation of Flight Efficiency for Stockholm Arlanda Airport using OpenSky Network Data,Proceedings of the 7th OpenSky Workshop 2019
+Beilschmidt19a,2019,Crowdsourced Surveillance & Control,4,opensky,VAT to the Future: Extrapolating Visual Complex Event Processing,Proceedings of the 7th OpenSky Workshop 2019
+Sallouha19,2019,Crowdsourced Surveillance & Control,7,opensky; crowdsourced,G2A Localization: Aerial Vehicles Localization Using a Ground Crowdsourced Network,Proceedings of the 7th OpenSky Workshop 2019
+Kastelic19,2019,Crowdsourced Surveillance & Control,11,ads-b; opensky,Building Visual Anomaly Dataset from Satellite Data using ADS-B,Proceedings of the 7th OpenSky Workshop 2019
+Tanner19,2019,Cybersecurity & Anomaly Detection,10,anomalies,Anomalies in the Sky: Experiments with traffic densities and airport runway use,Proceedings of the 7th OpenSky Workshop 2019
+Sun19a,2019,Crowdsourced Surveillance & Control,4,opensky,Integrating pyModeS and OpenSky Historical Database,Proceedings of the 7th OpenSky Workshop 2019
+Olive19b,2019,Trajectory Prediction,6,trajectory,A Python Toolbox for Processing Air Traffic Data: A Use Case with Trajectory Clustering,Proceedings of the 7th OpenSky Workshop 2019
+Leonardi19,2019,Cybersecurity & Anomaly Detection,10,jamming,Jamming/Garbling assessment and possible mitigations in the OpenSky network,Proceedings of the 7th OpenSky Workshop 2019
+Darabseh19,2019,Cybersecurity & Anomaly Detection,10,jamming,Detecting GPS Jamming Incidents in OpenSky Data,Proceedings of the 7th OpenSky Workshop 2019
+Zhang19a,2019,Air Traffic Management,4,airport,A number-based inventory of particle emissions by civil aviation and the influences on the particle number concentration near Zurich airport,Proceedings of the 7th OpenSky Workshop 2019
+Schaefer19a,2019,Crowdsourced Surveillance & Control,11,ads-b; opensky,Higher than a kite: ADS-B communication analysis using a high-altitude balloon,Proceedings of the 7th OpenSky Workshop 2019
+Kirechu19,2019,Crowdsourced Surveillance & Control,4,opensky,Project Peregrine: Enhancing Public Sector Research in Global Transparency and Anti-Corruption Through Open Aviation Data.,Proceedings of the 7th OpenSky Workshop 2019
+Spinielli19,2019,Crowdsourced Surveillance & Control,11,ads-b; opensky,Investigating ADS-B MOPS Compliance using Open Data,Proceedings of the 7th OpenSky Workshop 2019
+Meschenmoser19,2019,Crowdsourced Surveillance & Control,4,opensky,Regulation-Oriented Filtering in Web-Based Air Traffic Exploration,Proceedings of the 7th OpenSky Workshop 2019
+Ikli19,2019,Other,0,,An Optimistic Planning Approach for the Aircraft Landing Problem,EIWAC 2019 Exploring Ideas for World Aviation Challenges
+Mink19,2019,Crowdsourced Surveillance & Control,6,surveillance,Indicators of Compromise for the United States Federal Aviation Administration Next Generation Air Transportation System Automatic Dependent Surveillance-Broadcast,University of South Alabama
+Sun19,2019,Trajectory Prediction,10,trajectory; reconstructing,Reconstructing Aircraft Turn Manoeuvres for Trajectory Analyses Using ADS-B Data,Proceedings of the 9th SESAR Innovation Days
+Schultz19,2019,Crowdsourced Surveillance & Control,7,ads-b,A-CDM Lite: Situation Awareness and Decision-making for Small Airports based on ADS-B Data,Proceedings of the 9th SESAR Innovation Days
+Lopez19,2019,Other,0,,Exploracion de tecnologias Python para la creacion de cuadros de mandos e implementacion para un caso de estudio dentro del entorno aeronautico,Universidad de Valladolid
+Pan19a,2019,Trajectory Prediction,10,trajectories; prediction,Online Stochastic Prediction of Mid-Flight Aircraft Trajectories,Proceedings of the 12th ACM SIGSPATIAL International Workshop on Computational Transportation Science
+Tengzelius19a,2019,Other,0,,Understanding Loudness variations for aircraft Landing procedures at Arlanda (ULLA),Aerospace Technology Congress
+Lemetti19,2019,Air Traffic Management,8,arrival; airport,Evaluation of Flight Efficiency for Stockholm Arlanda Airport Arrivals,2019 IEEE/AIAA 38th Digital Avionics Systems Conference (DASC)
+Tseng19,2019,Urban Air Mobility & Simulation,7,uav,A UAV Positioning Approach Using LoRa,University of Glasgow
+Tengzelius19,2019,Machine Learning & Noise Analysis,7,noise,Aircraft pass-by noise on ground modelled with the SAFT-program,Inter.Noise 2019
+Brisaboa19,2019,Trajectory Prediction,6,trajectory,GraCT: A Grammar-based Compressed Index for Trajectory Data,Information Sciences
+Li19,2019,Cybersecurity & Anomaly Detection,16,attack; security,Online Sequential Attack Detection for ADS-B Data based on Hierarchical Temporal Memory,Computers & Security
+Pan19,2019,Crowdsourced Surveillance & Control,7,ads-b,When UAVs coexist with manned airplanes: Large-scale aerial network management using ADS-B,Transactions on Emerging Telecommunications Technologies
+Ren19a,2019,Crowdsourced Surveillance & Control,7,ads-b,A Novel Multi-Criteria Preamble Detection Algorithm for ADS-B Signals,IEEE Access
+Ren19,2019,Navigation & Signal Processing,8,signal; communication,Novel error correction algorithms for ADS-B signals with matched filter based decoding,Physical Communication
+Strohmeier21,2021,Other,0,,Classi-Fly: Inferring Aircraft Categories from Open Data,ACM Transactions on Intelligent Systems and Technology
+Schaefer19,2019,Crowdsourced Surveillance & Control,4,opensky,OpenSky Report 2019: Analysing TCAS in the Real World using Big Data,2019 IEEE/AIAA 38th Digital Avionics Systems Conference (DASC)
+Olive19a,2019,Other,0,,"traffic, a toolbox for processing and analysing air traffic data",Journal of Open Source Software
+Strohmeier19,2019,Cybersecurity & Anomaly Detection,8,security,On the Applicability of Satellite-based Air Traffic Control Communication for Security,IEEE Communications Magazine
+Liu19,2019,Cybersecurity & Anomaly Detection,20,spoofing; spoof,Synchronization-Free GPS Spoofing Detection with Crowdsourced Air Traffic Control Data,20th IEEE International Conference on Mobile Data Management (MDM)
+Weinert19,2019,Crowdsourced Surveillance & Control,7,ads-b,Developing a Low Altitude Manned Encounter Model Using ADS-B Observations,2019 IEEE Aerospace Conference
+Baskaya19,2019,Urban Air Mobility & Simulation,7,drone,D'etection & diagnostic de pannes pour les drones utilisant la machine learning,Universit'e Paul Sabatier-Toulouse III
+Beilschmidt19,2019,Other,0,,Pretty Fly for a VAT GUI: Visualizing Event Patterns for Flight Data,Proceedings of the 13th ACM International Conference on Distributed and Event-based Systems
+Akerman19,2019,Cybersecurity & Anomaly Detection,8,attack,VizADS-B: Analyzing Sequences of ADS-B Images Using Explainable Convolutional LSTM Encoder-Decoder to Detect Cyber Attacks,arXiv preprint arXiv:11906.07921
+Cretin18,2018,Cybersecurity & Anomaly Detection,13,attack; resilience,Increasing the Resilience of ATC systems against False Data Injection Attacks using DSL-based Testing,"ICRAT 2018, Doctoral Symposium"
+Olive19,2019,Cybersecurity & Anomaly Detection,32,anomaly detection; anomalies; anomaly,Identifying Anomalies in past en-route Trajectories with Clustering and Anomaly Detection Methods,Thirteenth USA/Europe Air Traffic Management Research and Development Seminar (ATM2019)
+Saez19,2019,Air Traffic Management,14,air traffic management; arrival; separation,Automation for Separation with CDOs: Dynamic Aircraft Arrival Routes,Thirteenth USA/Europe Air Traffic Management Research and Development Seminar (ATM2019)
+Jansen18a,2018,Navigation & Signal Processing,12,navigation; localization,Detection and localization of attacks on satellite-based navigation systems,Ruhr University Bochum
+Alligier19,2019,Air Traffic Management,6,air traffic management,Predictive Distribution of the Mass and Speed Profile to Improve Aircraft Climb Prediction,Thirteenth USA/Europe Air Traffic Management Research and Development Seminar (ATM2019)
+Sciancalepore19,2019,Crowdsourced Surveillance & Control,7,ads-b,Reliability of ADS-B Communications: Novel Insights based on an Experimental Assessment,34th ACM/SIGAPP Symposium on Applied Computing (SAC)
+Zhang19,2019,Navigation & Signal Processing,3,communication,A number-based inventory of size-resolved black carbon particle emissions by global civil aviation,Nature Communications
+Yang2018,2018,Cybersecurity & Anomaly Detection,8,security,A Practical and Compatible Cryptographic Solution to ADS-B Security,IEEE Internet of Things Journal
+Sidorov18,2018,Other,0,,A Practical Expert System with (Near) Real-Time Analysis of Large Spatial Sets of Air Traffic Data,2018 IEEE International Conference on Big Data (Big Data)
+Olive18a,2018,Crowdsourced Surveillance & Control,6,mode s,Quantitative Assessments of Runway Excursion Precursors using Mode S Data,8th International Conference on Research in Air Transportation
+Prager18,2018,Other,0,,Immersive Spatio-Temporale Suche und Exploration zur Entscheidungsunterstuetzung,University of Stuttgart
+Hurter19,2019,Trajectory Prediction,6,trajectories,FiberClay: Sculpting Three Dimensional Trajectories to Reveal Structural Insights,IEEE transactions on Visualization and Computer Graphics
+Schaefer18a,2018,Cybersecurity & Anomaly Detection,8,security,Mobility Improves the Security of Location Awareness in Wireless Networks,University of Kaiserslautern
+Brisaboa18,2018,Trajectory Prediction,6,trajectories,3Dinformaci: A Grammar-Based Compressed Representation of 3D Trajectories,International Symposium on String Processing and Information Retrieval
+Alonso18,2018,Navigation & Signal Processing,3,rf,HDFS File Formats: Study and Performance Comparison,University of Valladolid
+Basora18,2018,Air Traffic Management,5,traffic flow,Occupancy Peak Estimation from Sector Geometry and Traffic Flow Data,Proceedings of the SESAR Innovation Days
+Martinez18,2018,Trajectory Prediction,6,trajectories,Smart Data Fusion: Probabilistic Record Linkage adapted to Merge two Trajectories from Different Sources,Proceedings of the SESAR Innovation Days
+Olive18,2018,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Detecting Controllers’ Actions in Past Mode S Data by Autoencoder-Based Anomaly Detection,Proceedings of the SESAR Innovation Days
+Alligier18,2018,Air Traffic Management,5,airport; operation,Learning aircraft operational factors to improve aircraft climb prediction: A large scale multi-airport study,Transportation Research Part C: Emerging Technologies
+Schaefer18,2018,Crowdsourced Surveillance & Control,20,ads-b; mode s; opensky; crowdsourced,OpenSky Report 2018: Assessing the Integrity of Crowdsourced Mode S and ADS-B Data,"Digital Avionics Systems Conference (DASC), 2018 IEEE/AIAA 37th"
+Smith18,2018,Navigation & Signal Processing,3,communication,Undermining Privacy in the Aircraft Communications Addressing and Reporting System (ACARS),Privacy Enhancing Technologies Symposium (PoPETS)
+Strohmeier18c,2018,Navigation & Signal Processing,3,communication,Utilizing Air Traffic Communications for OSINT on State and Government Aircraft,NATO CCD COE 10th International Conference on Cyber Conflict (CyCon)
+Goekgoez18,2018,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Anomaly Detection using GANs in OpenSky Network,NATO Science and Technology Organization: Big Data and Artificial Intelligence for Military Decision Making
+Jansen18,2018,Cybersecurity & Anomaly Detection,36,spoofing; spoof; attack; security,Crowd-GPS-Sec: Leveraging Crowdsourcing to Detect and Localize GPS Spoofing Attacks,IEEE Symposium on Security and Privacy (S&P)
+Strohmeier18b,2018,Cybersecurity & Anomaly Detection,8,security,The Real First Class? Inferring Confidential Corporate Mergers and Government Relations from Air Traffic Communication,IEEE European Symposium on Security and Privacy (EuroS&P)
+Calvo18,2018,Navigation & Signal Processing,8,signal; sensor,Nanosecond-precision Time-of-Arrival Estimation for Aircraft Signals with low-cost SDR Receivers,ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)
+Trueb18,2018,Air Traffic Management,6,air traffic control,Monitoring Meteorological Parameters With Crowdsourced Air Traffic Control Data,ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)
+Strohmeier18a,2018,Navigation & Signal Processing,8,localization; communication,A k-NN-based Localization Approach for Crowdsourced Air Traffic Communication Networks,IEEE Transactions on Aerospace and Electronic Systems
+Garcia17,2017,Other,0,,Towards a Scalable Architecture for Flight Data Management,"6th International Conference on Data Science, Technology and Applications"
+Zintl17,2017,Crowdsourced Surveillance & Control,7,ads-b,Reconstruction of Flight States through ADS-B Data,TU Munich
+Elmarady17,2017,Cybersecurity & Anomaly Detection,8,security,Enhancing accuracy and security of ADS-B via MLAT assisted-flight information system,"Computer Engineering and Systems (ICCES), 2017 12th International Conference on"
+Schaefer17a,2017,Crowdsourced Surveillance & Control,17,ads-b; mode s; opensky,OpenSky Report 2017: Mode S and ADS-B Usage of Military and other State Aircraft,IEEE/AIAA 36th Digital Avionics Systems Conference
+Martinez17,2017,Other,0,,Integrating Flight-related Information into a (Big) Data Lake,IEEE/AIAA 36th Digital Avionics Systems Conference
+Chailunka17,2017,Other,0,,Geo-Informatics Platform for Aviation,ENRI Int. Workshop on ATM/CNS (EIWAC 2017)
+Strohmeier17b,2017,Cybersecurity & Anomaly Detection,8,security,Crowdsourcing Security for Wireless Air Traffic Communications,Proceedings of the 9th International Conference on Cyber Conflict (CYCON)
+Smith17,2017,Navigation & Signal Processing,3,communication,Analyzing Privacy Breaches in the Aircraft Communications Addressing and Reporting System (ACARS),arXiv preprint arXiv:1705.07065
+Strohmeier17a,2017,Crowdsourced Surveillance & Control,5,transponder,Large-scale Analysis of Aircraft Transponder Data,IEEE Aerospace and Electronic Systems Magazine
+Tanner18,2018,Machine Learning & Noise Analysis,3,artificial intelligence,Fusing Flight Data with Social Media Data,NATO Science and Technology Organization: Big Data and Artificial Intelligence for Military Decision Making
+Strohmeier16,2016,Cybersecurity & Anomaly Detection,8,security,Security in Next Generation Air Traffic Communication Networks,University of Oxford
+Moser16,2016,Cybersecurity & Anomaly Detection,28,spoofing; spoof; attack,Investigation of Multi-device Location Spoofing Attacks on Air Traffic Control and Possible Countermeasures,ACM Conference on Mobile Computing and Networking
+SestiniDalBianco16,2016,Machine Learning & Noise Analysis,2,clustering,Flight clustering for route detection and CO2 emissions,Large Scale Data Engineering Course (LSDE)
+GankemaBecher16,2016,Crowdsourced Surveillance & Control,7,ads-b,Spatial Analysis of ADS-B Messages to Identify Rescue Helicopters Using Spark,Large Scale Data Engineering Course (LSDE)
+DiBernardoSleiman16,2016,Other,0,,Cause for Emergency,Large Scale Data Engineering Course (LSDE)
+Baker2016,2016,Cybersecurity & Anomaly Detection,16,secure; security,Secure Location Verification with a Mobile Receiver,Proceedings of the 2nd ACM Workshop on Cyber-Physical Systems Security and Privacy
+Schaefer16b,2016,Crowdsourced Surveillance & Control,17,ads-b; mode s; opensky,OpenSky Report 2016: Facts and Figures on SSR Mode S and ADS-B Usage,IEEE/AIAA 35th Digital Avionics Systems Conference
+Schaefer16a,2016,Cybersecurity & Anomaly Detection,16,secure; security,Secure Motion Verification using the Doppler Effect,Proceedings of the 9th ACM Conference on Security & Privacy in Wireless and Mobile Networks
+RenzWieland16,2016,Air Traffic Management,6,airport; holding,Airport quality: holding and go-arounds,Large Scale Data Engineering Course (LSDE)
+Strohmeier15c,2015,Cybersecurity & Anomaly Detection,8,security,On Passive Data Link Layer Fingerprinting of Aircraft Transponders,Proceedings of the 1st ACM Workshop on Cyber-Physical Systems-Security and/or PrivaCy (CPS-SPC)
+Strohmeier15b,2015,Cybersecurity & Anomaly Detection,8,security,OpenSky: A Swiss Army Knife for Air Traffic Security Research,Proceedings of the 34th IEEE/AIAA Digital Avionics Systems Conference
+Wandelt15,2015,Air Traffic Management,6,air traffic management,Efficient Compression of 4D-Trajectory Data in Air Traffic Management,IEEE Transactions on Intelligent Transportation Systems
+Schaefer15,2015,Cybersecurity & Anomaly Detection,16,secure; security,Secure Track Verification,IEEE Symposium on Security and Privacy (S&P)
+Strohmeier15a,2015,Cybersecurity & Anomaly Detection,8,security,Lightweight Location Verification in Air Traffic Surveillance Networks,Proceedings of the Cyber-Physical System Security Workshop (CPSS)
+Strohmeier15,2015,Cybersecurity & Anomaly Detection,20,intrusion detection; intrusion,Intrusion detection for airborne communication using PHY-layer information,"International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA)"
+Strohmeier14,2014,Crowdsourced Surveillance & Control,7,ads-b,Realities and Challenges of NextGen Air Traffic Management: The Case of ADS-B,IEEE Communications Magazine
+Schaefer14,2014,Crowdsourced Surveillance & Control,11,ads-b; opensky,Bringing Up OpenSky: A Large-scale ADS-B Sensor Network for Research,Proceedings of the 13th International Symposium on Information Processing in Sensor Networks
+Schaefer14a,2014,Crowdsourced Surveillance & Control,11,ads-b; opensky,Demonstration Abstract: OpenSky: A Large-scale ADS-B Sensor Network for Research,Proceedings of the 13th International Symposium on Information Processing in Sensor Networks
