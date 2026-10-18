@@ -1,15 +1,14 @@
-year,Air Traffic Management,COVID-19 & Societal Impact,Crowdsourced Surveillance & Control,Cybersecurity & Anomaly Detection,Machine Learning & Noise Analysis,Navigation & Signal Processing,Trajectory Prediction,Urban Air Mobility & Simulation,Other
-2014,0,0,3,0,0,0,0,0,0
-2015,1,0,0,5,0,0,0,0,0
-2016,1,0,2,4,1,0,0,0,1
-2017,0,0,3,2,0,1,0,0,3
-2018,3,0,3,7,1,6,2,0,3
-2019,5,0,16,8,3,2,5,2,10
-2020,10,16,13,8,6,7,9,0,7
-2021,14,14,23,11,11,8,5,2,20
-2022,8,19,21,15,12,12,10,3,17
-2023,20,4,20,9,12,10,10,6,34
-2024,19,6,15,10,15,11,26,5,29
-2025,22,2,15,23,19,18,26,6,29
-2026,32,4,38,17,13,9,19,3,29
-2027,1,0,0,1,0,1,0,0,1
+year,Air Traffic Management,Societal & Public-Service Applications,Surveillance Infrastructure & Data Quality,Cybersecurity & Anomaly Detection,Aircraft Performance & Environmental Impact,Trajectory Prediction & Generation,Navigation & Signal Processing,Urban Air Mobility & Simulation,Data Tools & Visualisation,Machine Learning & Data Methods,Other
+2014,1,0,2,0,0,0,0,0,0,0,0
+2015,1,0,1,3,0,0,0,0,0,0,1
+2016,1,1,0,4,1,0,0,0,0,0,2
+2017,0,0,0,2,0,0,1,0,1,0,5
+2018,5,0,1,6,0,2,4,0,0,0,7
+2019,5,0,0,8,3,4,3,4,2,3,19
+2020,11,16,1,6,4,4,10,0,1,8,15
+2021,15,15,2,10,10,4,6,1,1,6,38
+2022,12,19,1,15,11,6,8,2,1,7,35
+2023,18,6,1,10,17,7,8,4,2,12,40
+2024,24,7,2,10,23,13,7,5,0,12,33
+2025,26,2,7,17,20,20,9,6,3,22,28
+2026,46,12,6,16,34,17,9,2,5,11,6
