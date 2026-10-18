@@ -1,4 +1,36 @@
 key,year,category,score,matched_terms,title,venue
+Fischetti26,2026,Navigation & Signal Processing,3,communication,Block-fitness modeling of the global air mobility network,Nature Communications
+Bai25hcuan,2025,Machine Learning & Noise Analysis,1,learning,Dynamic heterogeneous graph representation based on adaptive negative sample mining via high-fidelity instances and context-aware uncertainty learning,Expert Systems with Applications
+Jones25,2025,Trajectory Prediction,6,trajectories,Behavioral Segmentation and Clustering of Geospatial Trajectories,2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)
+Fabera25,2025,Other,0,,Evaluation of Network Manager B2B Flight Data Accuracy,2025 Smart City Symposium Prague (SCSP)
+Demirel26hotspot,2026,Air Traffic Management,2,capacity,Hotspot Capacity-Driven Scheduling Strategies for Reducing Airborne Delays in TMAs,2026 New Trends in Civil Aviation (NTCA)
+Zhang25swift,2025,Trajectory Prediction,25,trajectory prediction; flight trajectory; trajectory; prediction,SWIFT: Scene-Aware Dual Cross-Attention Flight Trajectory Prediction,2025 IEEE International Conference on Big Data (BigData)
+Wang26stkg,2026,Trajectory Prediction,8,forecast; forecasting,Spatio-temporal Knowledge Graph for Traffic Forecasting via Tensor Decomposition,"2026 International Conference on Robotics, Automation and Intelligent Transportation Systems (RAITS)"
+Yu25communities,2025,Other,0,,Tracking Latent Communities Evolution with Hierarchical Edge Partition Models,2025 IEEE International Conference on Data Mining (ICDM)
+Pik27,2027,Cybersecurity & Anomaly Detection,10,anomaly,Degradation of Automatic Dependent Surveillance-Broadcast integrity: Temporal clustering and anomaly persistence,Reliability Engineering & System Safety
+Stawiarska26,2026,Other,0,,Data Quality and Predictive Reliability in AI-Enabled Aviation Energy Management: Physics-Informed Sensitivity Analysis with Open-Data Validation,Energies
+Huo26,2026,Air Traffic Management,11,airspace; terminal; capacity,Dynamic Terminal Airspace Capacity Assessment via Spatio-Temporal Resource-Demand Coupling,Aerospace
+Paone26,2026,Other,0,,"Testing Multi-Domain Convergence Against Negative Cases: A backtest of one open-source alert rule on NATO's Southern Flank, under a protocol fixed in advance, and what open sources could not supply",SSRN preprint
+ShafieiNia26,2026,Other,0,,3-D Emissions Mapping and Social Cost Estimation for US Domestic Aviation at West Coast Hubs,arXiv preprint arXiv:2609.31686
+Zheng26,2026,Trajectory Prediction,8,forecast; forecasting,"Lightweight Transformer Framework for Multi-Scale, Spatiotemporal Air Traffic Density Forecasting in Regional Airport Safety Research",engrXiv preprint
+Deshayes26,2026,Other,0,,Développement d’un Simulateur Numérique pour le Comportement des Aéronefs au Sol de l’Aéroport International Montréal-Trudeau,"École de technologie supérieure, Université du Québec"
+Wan26,2026,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Geometry-Informed Adaptive Time-Series Fusion of ADS-B Sensor Data for Short-Term Aircraft Trajectory Prediction,Sensors
+IglesiasPerez26,2026,Machine Learning & Noise Analysis,2,clustering,Unsupervised Clustering of Cities Using Commercial Air Traffic: A Proxy for Economic Connectivity,Mathematics
+Sun26,2026,Other,0,,Aircraft Fuel Burn Estimation: The EUROCONTROL PRC 2025 Data Challenge,Journal of Open Aviation Science
+Wang26ftim,2026,Trajectory Prediction,13,flight trajectory; trajectory,FTIM: An end-to-end flight trajectory imputation method,Aerospace Science and Technology
+Kugener26,2026,Other,0,,Towards Reliability-Oriented Mission Profiles for Electric Aircraft Propulsion Converters,PCIM Europe 2026
+Vechtel26,2026,Air Traffic Management,1,operation,About the influence of the use of geometric altimetry on cruise flight efficiency under nominal operations,CEAS Aeronautical Journal
+Demirel26,2026,Air Traffic Management,4,terminal,Terminal Manevra Sahasında Yatay Düzlemde Uçak Sıralaması için Gecikme Temelli Karar Destek Yaklaşımı,Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi
+Jadhav25a,2025,Navigation & Signal Processing,3,rf,A Systematic-Architectural-Perspective Based Performance Analysis of A-MERIT-C- Dynamic Learning Multitiered Ensemble-Based Real Time Flight Data Analysis,International Research Journal of Multidisciplinary Technovation
+Fadlian25,2025,Cybersecurity & Anomaly Detection,8,security,Generating Realistic Passenger Name Records with Privacy Compliance for Security Analysis,Proceedings of the International ISCRAM Conference
+Pattanayak26,2026,Air Traffic Management,1,operation,Battery ageing reshapes the reachable network of hybrid-electric regional aviation: a route-resolved uncertainty quantification study on open operational and cell-ageing data,SSRN preprint
+SotoMolina26,2026,Crowdsourced Surveillance & Control,9,surveillance; crowdsourced,Source-adaptive trajectory generation from crowdsourced flight surveillance for aircraft-noise assessment,SSRN preprint
+Yan25,2025,Air Traffic Management,5,traffic flow,State-DynAttn: A Hybrid State-Space and Dynamic Graph Attention Architecture for Robust Air Traffic Flow Prediction Under Weather Disruptions,Mathematics
+Chen25curnm,2025,Machine Learning & Noise Analysis,3,neural,Curriculum negative mining for temporal networks,Neural Networks
+Pik26ghost,2026,Crowdsourced Surveillance & Control,7,ads-b,The Invisible Infrastructure: A Global Baseline for ADS-B Kinematic Integrity and the Ghost Record Phenomenon,SSRN preprint
+Pik26coupling,2026,Crowdsourced Surveillance & Control,13,ads-b; surveillance,Cross-Channel Anomaly Coupling in ADS-B: A Surveillance-Integrity Monitor for Air Traffic Management,SSRN preprint
+Kuhrt25,2025,Other,0,,Efficient Event Processing on Modern Hardware,Scalable Data Management for Future Hardware
+Yousfi25,2025,Other,0,,"Multistatic ISAR imaging: image formation, structure analysis and motion estimation",Université Paris-Saclay
 Rabbaniansyah26,2026,Cybersecurity & Anomaly Detection,8,security,Implementation of Ethereum-Based Blockchain Technology for ADS-B Data Security and Validation,ITEJ (Information Technology Engineering Journals)
 Dorbolo26a,2026,Air Traffic Management,4,airport,A general data-driven methodology for predicting future air traffic distributions around airports,Transportation Research Interdisciplinary Perspectives
 Guo26,2026,Crowdsourced Surveillance & Control,6,surveillance,EpiGIS pro: an AI-powered geospatial intelligence platform for integrated disease surveillance and predictive analytics,International Journal of Health Geographics
@@ -6,7 +38,7 @@ Babaei26,2026,Air Traffic Management,4,airport,Techno-Economic Optimization of E
 Ahmed26,2026,Cybersecurity & Anomaly Detection,28,intrusion detection; intrusion; attack,Toward realistic and lightweight intrusion detection for ADS-B: A comprehensive threat model and multi-attack machine learning evaluation,Array
 Aras26,2026,Other,0,,The aerial embassy: measuring the diplomatic returns of sovereign aviation,International Politics
 Makhlouf26,2026,Machine Learning & Noise Analysis,2,data-driven,Data-Driven Assessment of DME Operational Usage in Relation to Service Volume Definitions,Second US-Europe Air Transportation Research and Development Symposium
-Beiser26,2026,Air Traffic Management,7,traffic flow; capacity,Joint Air Traffic Flow and Capacity Management via Answer Set Programming,arXiv preprint arXiv:2606.22978
+Beiser26,2027,Air Traffic Management,7,traffic flow; capacity,Joint Air Traffic Flow and Capacity Management via Answer Set Programming,Logic Programming and Nonmonotonic Reasoning
 Randolf26,2026,Urban Air Mobility & Simulation,4,simulation,Safety-by-Design Methodology for Simulation-Based Dataset Creation and AI Model Development,University of Cologne
 Suulker26,2026,Trajectory Prediction,8,forecast; forecasting,Probabilistic Forecasting of Aircraft Transit Time within a Flight Information Region: A Case Study of Schiphol Airport,Second US-Europe Air Transportation Research and Development Symposium
 CebrianGomez26,2026,Crowdsourced Surveillance & Control,7,ads-b,A Methodology for Conditioning ADS-B Helicopter Trajectories for Noise and Emissions Assessment,Aerospace
