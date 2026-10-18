@@ -1,4 +1,39 @@
 key,year,category,score,matched_terms,title,venue
+Jarry26,2026,Crowdsourced Surveillance & Control,11,ads-b; opensky,Calibrating plateau detectors in ADS-B data without ground truth,The 14th OpenSky Symposium
+Fustagueras26,2026,Crowdsourced Surveillance & Control,11,ads-b; opensky,Inferred Tactical Command Sampling for Stochastic Vertical Profile Generation Using ADS-B Data,The 14th OpenSky Symposium
+Ren26,2026,Crowdsourced Surveillance & Control,11,ads-b; opensky,A Controlled Benchmark of Generative Models for ADS-B Aircraft Trajectories,The 14th OpenSky Symposium
+Strohmeier26,2026,Crowdsourced Surveillance & Control,7,opensky; crowdsourced,Crowdsourced Multilateration: An Empirical Evaluation of mlat-client/server in Switzerland,The 14th OpenSky Symposium
+Demange-Chryst26,2026,Crowdsourced Surveillance & Control,14,ads-b; opensky; receiver,Passive Receiver Self-Localisation from Aircraft Bistatic Doppler Echoes and ADS-B Tracks,The 14th OpenSky Symposium
+Saarde26,2026,Crowdsourced Surveillance & Control,8,opensky; radar,Finding Flying Aircraft in Synthetic Aperture Radar Satellite Imagery,The 14th OpenSky Symposium
+Chawla26,2026,Crowdsourced Surveillance & Control,11,ads-b; opensky,Progressive Aircraft Category Identification from OpenSky ADS-B Trajectories,The 14th OpenSky Symposium
+Hänggi26,2026,Machine Learning & Noise Analysis,5,deep learning; learning,Detection of Aircraft Pushback Segments Using Deep Learning,The 14th OpenSky Symposium
+Goode26,2026,Crowdsourced Surveillance & Control,11,ads-b; opensky,Evaluating and Improving Flight Derivation from ADS-B Data,The 14th OpenSky Symposium
+Beiser26a,2026,Air Traffic Management,7,traffic flow; capacity,An Open-Source Data Generator for Joint Air Traffic Flow and Capacity Management Benchmarking,The 14th OpenSky Symposium
+Koelle26,2026,Air Traffic Management,6,traffic flow; operation,Using Open Data to Characterise Traffic Flows and Operational Concepts across International Aerodromes,The 14th OpenSky Symposium
+Arts26,2026,Crowdsourced Surveillance & Control,4,opensky,Qualifying public flight data using onboard sensor records for MRO-targeted historical datasets,The 14th OpenSky Symposium
+Ba26,2026,Cybersecurity & Anomaly Detection,50,intrusion detection; spoofing; spoof; jamming; intrusion,Adversarial Robustness of xLSTM-Based ADS-B Intrusion Detection Against Progressive Spoofing and Discrete Jamming,The 14th OpenSky Symposium
+Bragado26,2026,Trajectory Prediction,18,trajectory prediction; trajectory; prediction,Operational Contextualization and Validation of AI-Based 4D Trajectory Predictions,The 14th OpenSky Symposium
+Buelta26,2026,Crowdsourced Surveillance & Control,11,ads-b; opensky,Physics-Based In-Flight Take-Off Weight Estimation from ADS-B and Weather Reanalysis,The 14th OpenSky Symposium
+Groh26,2026,Crowdsourced Surveillance & Control,4,opensky,ApproachNet: Physics-Grounded Safety Layers for Data-Driven Aircraft Approach Control,The 14th OpenSky Symposium
+Kuhn26,2026,Cybersecurity & Anomaly Detection,22,anomaly detection; anomaly,Feature-Specific Anomaly Detection for ADS-B Trajectory Data Using LSTM Autoencoders,The 14th OpenSky Symposium
+FelipeJunior26,2026,Crowdsourced Surveillance & Control,4,opensky,"Operating a Volunteer OpenSky Node in Brazil: Field Notes on Coverage, Uptime, and Local Regulations",The 14th OpenSky Symposium
+Levine26,2026,Crowdsourced Surveillance & Control,11,ads-b; opensky,Measuring Traffic-Pattern Conformance at a Non-Towered Airport With Low-Cost ADS-B,The 14th OpenSky Symposium
+Manoranjan26,2026,Trajectory Prediction,6,trajectory,Before 7700: Detecting Persistent Trajectory Precursors in OpenSky Data,The 14th OpenSky Symposium
+MartinezVilella26,2026,Trajectory Prediction,6,trajectories,Generation of TMA Landing Trajectories Using Diffusion Models in Kinematic State Space,The 14th OpenSky Symposium
+Rouille26,2026,Crowdsourced Surveillance & Control,4,opensky,Mapping Europe’s Aviation Energy Transition with OpenSky,The 14th OpenSky Symposium
+Shida26,2026,Crowdsourced Surveillance & Control,4,opensky,"Recentering OpenSky Traffic: Arbitrary-Center, Multi-Projection Visualization on a Single GPU",The 14th OpenSky Symposium
+Turhan26,2026,Crowdsourced Surveillance & Control,11,ads-b; opensky,Operational Airspace Analytics Using Historical ADS-B Data: An OpenSky–BlueSky Framework for Analyzing Large-Scale Airspace Disruptions,The 14th OpenSky Symposium
+Velasquez-SanMartin26,2026,Crowdsourced Surveillance & Control,4,opensky,Estimating the Zero-Lift Drag Coefficient from Aircraft Climb Data,The 14th OpenSky Symposium
+Guterres26,2026,Air Traffic Management,5,airspace,Comparing São Paulo Airspace Designs Through KPI08 and Gibbs Sampling,The 14th OpenSky Symposium
+Xia26,2026,Crowdsourced Surveillance & Control,4,opensky,Sim-to-Real Transferability of Spatial and Time-Based Horizontal Probabilistic Conflict Detection,The 14th OpenSky Symposium
+Dalmau26a,2026,Crowdsourced Surveillance & Control,4,opensky,Learning Air Traffic Conflict Resolution via Adversarial Inverse Reinforcement Learning,The 14th OpenSky Symposium
+Feurgard26,2026,Air Traffic Management,8,arrival; airport,Waypoint-Free Trajectory Planning for Sequencing Airport Arrivals,The 14th OpenSky Symposium
+Weinold26,2026,Trajectory Prediction,6,trajectory,Benchmarking Trajectory-Driven Fuel Burn Models Against QAR Data from a Major European Airline,The 14th OpenSky Symposium
+SerranoMira26,2026,Crowdsourced Surveillance & Control,11,ads-b; opensky,Towards Fuel Consumption Prediction in Trombone Procedures Using ADS-B Data,The 14th OpenSky Symposium
+Tassanbi26a,2026,Crowdsourced Surveillance & Control,11,ads-b; opensky,Estimating Aircraft Mass at Top of Descent from ADS-B Trajectory Data,The 14th OpenSky Symposium
+CabanasMaldonado26,2026,Crowdsourced Surveillance & Control,11,ads-b; opensky,Trace-Driven Evaluation of Post-Quantum Authentication for ADS-B Using OpenSky Network Data,The 14th OpenSky Symposium
+Field26,2026,Crowdsourced Surveillance & Control,8,opensky; radar,Auto-calibration of the Zephyr Meteor Radar Network,The 14th OpenSky Symposium
+Spinielli26,2026,Crowdsourced Surveillance & Control,4,opensky,EUROCONTROL PRC Data Challenge,The 14th OpenSky Symposium
 Fischetti26,2026,Navigation & Signal Processing,3,communication,Block-fitness modeling of the global air mobility network,Nature Communications
 Bai25hcuan,2025,Machine Learning & Noise Analysis,1,learning,Dynamic heterogeneous graph representation based on adaptive negative sample mining via high-fidelity instances and context-aware uncertainty learning,Expert Systems with Applications
 Jones25,2025,Trajectory Prediction,6,trajectories,Behavioral Segmentation and Clustering of Geospatial Trajectories,2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)
